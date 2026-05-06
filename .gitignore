@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+configs/api_config.py
+**/configs/api_config.py
+
+# Runtime outputs
+logs/
+outputs/
+evaluation_result/
+**/logs/
+**/outputs/
+**/evaluation_result/
+
+# Model weights / exported models
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+
+# Large archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Media outputs
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Temp files
+*.log
+*.tmp
+temp_marker.png

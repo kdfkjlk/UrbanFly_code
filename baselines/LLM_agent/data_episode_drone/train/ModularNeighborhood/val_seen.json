@@ -1,0 +1,6178 @@
+[
+  {
+    "marker_pose": [
+      46.530078125,
+      38.735546875,
+      -1.125
+    ],
+    "drone_pose": [
+      65.59020878600576,
+      17.485128497284407,
+      30,
+      131.44565615072176
+    ],
+    "time": [
+      0.33,
+      0.91
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      145.345263671875,
+      78.658740234375,
+      -1.109375
+    ],
+    "drone_pose": [
+      124.85815295763993,
+      74.74933339051685,
+      24,
+      174.03387608392305
+    ],
+    "time": [
+      0.36,
+      0.47
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2629178448824394,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      57.90224609375,
+      218.712255859375,
+      0.328125
+    ],
+    "drone_pose": [
+      83.40368513154885,
+      225,
+      18,
+      346.8881614026513
+    ],
+    "time": [
+      0.81,
+      0.24
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24545821635349824,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      126.18408203125,
+      100.44375,
+      -1.109375
+    ],
+    "drone_pose": [
+      113.48994562535968,
+      119.61095801478122,
+      24,
+      62.464292757898306
+    ],
+    "time": [
+      0.61,
+      0.47
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25580080438658703,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.533349609375,
+      9.6736328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      11.472092049431804,
+      9.125927267854681,
+      15,
+      342.1547925067598
+    ],
+    "time": [
+      0.7,
+      0.09
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      94.00020806449295,
+      184.28706119778832,
+      22,
+      182.74777367340738
+    ],
+    "time": [
+      0.34,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3048784690041204,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -2.33251953125,
+      194.30107421875,
+      -0.96875
+    ],
+    "drone_pose": [
+      0,
+      169.88322700042355,
+      28,
+      191.80558445573914
+    ],
+    "time": [
+      0.42,
+      0.06
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24564518596503732,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -2.33251953125,
+      194.30107421875,
+      -0.96875
+    ],
+    "drone_pose": [
+      19.376882684821393,
+      186.43245229924247,
+      26,
+      138.87111958050184
+    ],
+    "time": [
+      0.89,
+      0.32
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      78.84210045300857,
+      66.08806624970126,
+      18,
+      128.69967370802107
+    ],
+    "time": [
+      0.37,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      126.18408203125,
+      100.44375,
+      -1.109375
+    ],
+    "drone_pose": [
+      120.73252793211799,
+      122.47209940466942,
+      17,
+      214.5500899114753
+    ],
+    "time": [
+      0.68,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      87.74740210328886,
+      43.50764707730665,
+      16,
+      32.20515234755896
+    ],
+    "time": [
+      0.88,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21696265681429347,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      2.638671875,
+      204.925,
+      -0.375
+    ],
+    "drone_pose": [
+      27.115792528371355,
+      217.42435344233658,
+      17,
+      117.99636929167467
+    ],
+    "time": [
+      0.35,
+      0.95
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34677326123657515,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      54.857421875,
+      38.490625,
+      -1.125
+    ],
+    "drone_pose": [
+      28.303803982405952,
+      34.93108958526632,
+      30,
+      185.8370037359566
+    ],
+    "time": [
+      0.88,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      54.857421875,
+      38.490625,
+      -1.125
+    ],
+    "drone_pose": [
+      37.4596011205672,
+      22.304228570268364,
+      20,
+      8.391284499702092
+    ],
+    "time": [
+      0.84,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3194600265431292,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      36.918359375,
+      51.387890625,
+      -1.125
+    ],
+    "drone_pose": [
+      21.4849702991402,
+      45.83073659913862,
+      27,
+      186.02208165570121
+    ],
+    "time": [
+      0.82,
+      0.19
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2102174903767257,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      26.998291015625,
+      107.882080078125,
+      -2.109375
+    ],
+    "drone_pose": [
+      2.8972990803742285,
+      98.24395010289072,
+      18,
+      162.32314381937678
+    ],
+    "time": [
+      0.84,
+      0.71
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3368305605717239,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      36.918359375,
+      51.387890625,
+      -1.125
+    ],
+    "drone_pose": [
+      21.4849702991402,
+      45.83073659913862,
+      27,
+      186.02208165570121
+    ],
+    "time": [
+      0.34,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34505161211160296,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      57.07391734710909,
+      28.02061574051205,
+      26,
+      242.31684221774063
+    ],
+    "time": [
+      0.67,
+      0.57
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33065051174090165,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      48.24453125,
+      42.89921875,
+      -1.125
+    ],
+    "drone_pose": [
+      76.85855309386058,
+      41.124614203754874,
+      27,
+      43.028167436622596
+    ],
+    "time": [
+      0.69,
+      0.14
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22009151600159613,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      181.28857421875,
+      57.99599609375,
+      -1.109375
+    ],
+    "drone_pose": [
+      175.83310295692354,
+      75.91057738941463,
+      27,
+      262.8095569333298
+    ],
+    "time": [
+      0.84,
+      0.69
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      157.8845406779208,
+      39.17891215010064,
+      29,
+      184.53679228982102
+    ],
+    "time": [
+      0.4,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30370249738192895,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.533349609375,
+      9.6736328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      21.258524271786754,
+      28.394292064535414,
+      25,
+      59.73001724120428
+    ],
+    "time": [
+      0.82,
+      0.86
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      30.98046875,
+      56.53125,
+      -1.125
+    ],
+    "drone_pose": [
+      57.00794165165894,
+      65.09843762810594,
+      29,
+      100.17806291576593
+    ],
+    "time": [
+      0.6,
+      0.89
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2550060901119597,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      60.50054745714741,
+      15.414244905334172,
+      30,
+      276.6300941195523
+    ],
+    "time": [
+      0.31,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27420992257895405,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      71.075927734375,
+      159.151611328125,
+      0.390625
+    ],
+    "drone_pose": [
+      89.67027802161195,
+      137.9745017415291,
+      17,
+      173.2422643001103
+    ],
+    "time": [
+      0.83,
+      0.93
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.327148208484796,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -1.1640625,
+      68.938671875,
+      -1.125
+    ],
+    "drone_pose": [
+      0,
+      44.17434862020493,
+      30,
+      304.688245458565
+    ],
+    "time": [
+      0.3,
+      0.6
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3113595832619056,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      161.07958984375,
+      87.22587890625,
+      -1.109375
+    ],
+    "drone_pose": [
+      183.31029842096643,
+      101.04076800475933,
+      22,
+      95.77837695077304
+    ],
+    "time": [
+      0.85,
+      0.7
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32511695321610956,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      157.8845406779208,
+      39.17891215010064,
+      29,
+      184.53679228982102
+    ],
+    "time": [
+      0.81,
+      0.71
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23732353286988359,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -1.2782226562499996,
+      173.77744140625,
+      -0.71875
+    ],
+    "drone_pose": [
+      1.1974928854719886,
+      144.03581739387053,
+      26,
+      291.19355991731715
+    ],
+    "time": [
+      0.89,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25604921566729644,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      101.324365234375,
+      69.18408203125,
+      -1.109375
+    ],
+    "drone_pose": [
+      102.4106367156638,
+      42.5093357517269,
+      17,
+      273.96296242586976
+    ],
+    "time": [
+      0.65,
+      0.19
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      57.90224609375,
+      218.712255859375,
+      0.328125
+    ],
+    "drone_pose": [
+      33.724111774123315,
+      203.78315669829078,
+      16,
+      45.711422442200046
+    ],
+    "time": [
+      0.5,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2607461488278219,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      75.3134765625,
+      58.72509765625,
+      -1.09375
+    ],
+    "drone_pose": [
+      68.36694475002733,
+      78.64309217059879,
+      16,
+      70.75101547610807
+    ],
+    "time": [
+      0.57,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20461364052224346,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      26.998291015625,
+      107.882080078125,
+      -2.109375
+    ],
+    "drone_pose": [
+      0,
+      102.70168771988595,
+      29,
+      113.6126377648943
+    ],
+    "time": [
+      0.61,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      26.998291015625,
+      107.882080078125,
+      -2.109375
+    ],
+    "drone_pose": [
+      45.96170944306779,
+      116.45083186404946,
+      19,
+      9.89058517104958
+    ],
+    "time": [
+      0.86,
+      0.84
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      48.24453125,
+      42.89921875,
+      -1.125
+    ],
+    "drone_pose": [
+      76.85855309386058,
+      41.124614203754874,
+      27,
+      43.028167436622596
+    ],
+    "time": [
+      0.69,
+      0.14
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      94.864453125,
+      140.77138671875,
+      0.59375
+    ],
+    "drone_pose": [
+      124.0667174197997,
+      142.89838969213565,
+      18,
+      176.41349398765098
+    ],
+    "time": [
+      0.55,
+      0.92
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      1.0437988281250004,
+      142.401953125,
+      -1.109375
+    ],
+    "drone_pose": [
+      24.905273906985194,
+      152.24598693167746,
+      30,
+      11.404018404719158
+    ],
+    "time": [
+      0.9,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      94.864453125,
+      140.77138671875,
+      0.59375
+    ],
+    "drone_pose": [
+      124.0667174197997,
+      142.89838969213565,
+      18,
+      176.41349398765098
+    ],
+    "time": [
+      0.83,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      26.998291015625,
+      107.882080078125,
+      -2.109375
+    ],
+    "drone_pose": [
+      0,
+      102.70168771988595,
+      29,
+      113.6126377648943
+    ],
+    "time": [
+      0.61,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33935408232131353,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      102.37216796875,
+      18.41396484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      73.49267299295937,
+      23.801338385867574,
+      29,
+      333.3696070053358
+    ],
+    "time": [
+      0.87,
+      0.42
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20051493804782067,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.533349609375,
+      9.6736328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.573019353401875,
+      1.0193653797879154,
+      30,
+      78.6061489256952
+    ],
+    "time": [
+      0.67,
+      0.03
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23887091921040188,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      123.48760939410198,
+      56.42703795756939,
+      17,
+      200.40016490672835
+    ],
+    "time": [
+      0.33,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      145.345263671875,
+      78.658740234375,
+      -1.109375
+    ],
+    "drone_pose": [
+      122.60210324388801,
+      68.80294590790686,
+      16,
+      16.018817998721858
+    ],
+    "time": [
+      0.45,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      102.37216796875,
+      18.41396484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      127.47506213119408,
+      5.639894380266204,
+      24,
+      140.74478358820366
+    ],
+    "time": [
+      0.51,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2328601075906589,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.533349609375,
+      9.6736328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      21.258524271786754,
+      28.394292064535414,
+      25,
+      59.73001724120428
+    ],
+    "time": [
+      0.44,
+      0.68
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34983429501432983,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.225390625,
+      114.816796875,
+      -1.125
+    ],
+    "drone_pose": [
+      55.090703548678235,
+      119.91027181030562,
+      16,
+      146.90550135694454
+    ],
+    "time": [
+      0.83,
+      0.86
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2796406814245076,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      95.28493835026285,
+      45.67733857140022,
+      21,
+      118.46633066777032
+    ],
+    "time": [
+      0.35,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      166.05378336217493,
+      50.2208431177814,
+      26,
+      358.32475913972036
+    ],
+    "time": [
+      0.8,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.289154444194888,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      181.28857421875,
+      57.99599609375,
+      -1.109375
+    ],
+    "drone_pose": [
+      175.83310295692354,
+      75.91057738941463,
+      27,
+      262.8095569333298
+    ],
+    "time": [
+      0.57,
+      0.48
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3048658732602545,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      60.240771484375,
+      39.4646484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      31.687072533003718,
+      34.87540538389041,
+      22,
+      223.08648021063127
+    ],
+    "time": [
+      0.67,
+      0.19
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3477904462418704,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      60.240771484375,
+      39.4646484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      73.46839504323273,
+      46.7533031062816,
+      30,
+      108.62618589059696
+    ],
+    "time": [
+      0.85,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26722817877393856,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      127.639453125,
+      190.879248046875,
+      -0.578125
+    ],
+    "drone_pose": [
+      133.56336204423457,
+      169.72303257240893,
+      15,
+      314.868935086629
+    ],
+    "time": [
+      0.85,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2161590946214635,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      180.485546875,
+      55.05869140625,
+      -1.109375
+    ],
+    "drone_pose": [
+      167.0000920275191,
+      78.29824251473663,
+      22,
+      353.50768035139475
+    ],
+    "time": [
+      0.85,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      53.5380859375,
+      179.613037109375,
+      0.390625
+    ],
+    "drone_pose": [
+      30.83092751372398,
+      161.9044928837345,
+      20,
+      117.59286673012926
+    ],
+    "time": [
+      0.46,
+      0.04
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30107224902889923,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      60.240771484375,
+      39.4646484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      73.46839504323273,
+      46.7533031062816,
+      30,
+      108.62618589059696
+    ],
+    "time": [
+      0.85,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      17.509765625,
+      45.509765625,
+      -1.125
+    ],
+    "drone_pose": [
+      39.267894679649146,
+      29.115838053935665,
+      25,
+      272.2100397746502
+    ],
+    "time": [
+      0.82,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24633478265049263,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      94.864453125,
+      140.77138671875,
+      0.59375
+    ],
+    "drone_pose": [
+      67.18849421974988,
+      146.2069542551772,
+      16,
+      80.46648542779029
+    ],
+    "time": [
+      0.85,
+      0.55
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2630053962252815,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      97.48735883477971,
+      43.282987242467165,
+      17,
+      126.15338429647323
+    ],
+    "time": [
+      0.84,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.469140625,
+      64.28515625,
+      -1.125
+    ],
+    "drone_pose": [
+      33.6216726388349,
+      63.480504607432835,
+      30,
+      73.04209037061592
+    ],
+    "time": [
+      0.34,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2635855786217408,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      26.998291015625,
+      107.882080078125,
+      -2.109375
+    ],
+    "drone_pose": [
+      6.951969287674199,
+      86.51964774128118,
+      16,
+      296.2516320691715
+    ],
+    "time": [
+      0.81,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      87.14538329159349,
+      189.15229221379826,
+      15,
+      155.4987488816387
+    ],
+    "time": [
+      0.7,
+      0.98
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3472474414515488,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      115.27608981002878,
+      68.37794700919973,
+      15,
+      188.92133371774557
+    ],
+    "time": [
+      0.85,
+      0.55
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28949439259743454,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      181.28857421875,
+      57.99599609375,
+      -1.109375
+    ],
+    "drone_pose": [
+      199.91329135696648,
+      76.5184415267079,
+      26,
+      234.563593812354
+    ],
+    "time": [
+      0.36,
+      0.37
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23146484215702495,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      204.5482421875,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      208,
+      15.52854912201034,
+      17,
+      260.0735703331074
+    ],
+    "time": [
+      0.37,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.295236711029468,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      2.638671875,
+      204.925,
+      -0.375
+    ],
+    "drone_pose": [
+      27.115792528371355,
+      217.42435344233658,
+      17,
+      117.99636929167467
+    ],
+    "time": [
+      0.8,
+      0.83
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      16.709423828125,
+      7.7154296875,
+      -1.109375
+    ],
+    "drone_pose": [
+      28.37663304255156,
+      20.335170514275745,
+      26,
+      320.20345231951757
+    ],
+    "time": [
+      0.52,
+      0.1
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32037743866119456,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      1.0437988281250004,
+      142.401953125,
+      -1.109375
+    ],
+    "drone_pose": [
+      0,
+      120.54262959756886,
+      23,
+      331.3734066017248
+    ],
+    "time": [
+      0.84,
+      0.92
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23480444680768792,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      26.998291015625,
+      107.882080078125,
+      -2.109375
+    ],
+    "drone_pose": [
+      0,
+      102.70168771988595,
+      29,
+      113.6126377648943
+    ],
+    "time": [
+      0.61,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24383431148785553,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      52.592465307949304,
+      146.29482846596218,
+      23,
+      202.06661467575398
+    ],
+    "time": [
+      0.62,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2098783440722907,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      61.709423828125,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      40.20689528387239,
+      55.093889653513074,
+      17,
+      249.90184039747632
+    ],
+    "time": [
+      0.81,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22180051453660932,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.225390625,
+      114.816796875,
+      -1.125
+    ],
+    "drone_pose": [
+      59.449117348456426,
+      109.35993322226744,
+      19,
+      288.93260523237484
+    ],
+    "time": [
+      0.49,
+      0.54
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3334448883926899,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      126.18408203125,
+      100.44375,
+      -1.109375
+    ],
+    "drone_pose": [
+      131.46635737806676,
+      76.87623530280152,
+      17,
+      239.0435583639091
+    ],
+    "time": [
+      0.4,
+      0.83
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22761313744511033,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      181.28857421875,
+      57.99599609375,
+      -1.109375
+    ],
+    "drone_pose": [
+      151.44125762771895,
+      55.45466518640304,
+      28,
+      146.64898180942774
+    ],
+    "time": [
+      0.54,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.338123587277649,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      87.14538329159349,
+      189.15229221379826,
+      15,
+      155.4987488816387
+    ],
+    "time": [
+      0.7,
+      0.98
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -2.6278320312499996,
+      77.01689453125,
+      -1.109375
+    ],
+    "drone_pose": [
+      18.35632356931574,
+      75.28414881937533,
+      25,
+      351.38333548275335
+    ],
+    "time": [
+      0.81,
+      0.83
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.255210549604987,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.151611328125,
+      167.8466796875,
+      0.390625
+    ],
+    "drone_pose": [
+      12.79038465625495,
+      146.8253996847053,
+      24,
+      88.22048665527105
+    ],
+    "time": [
+      0.47,
+      0.4
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33386689595774727,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      9.855712890625,
+      7.960205078125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.052815125636528,
+      29.471705350225925,
+      25,
+      304.61856248863035
+    ],
+    "time": [
+      0.57,
+      0.99
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24354447376013416,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      43.77474468883041,
+      35.527734741965496,
+      20,
+      58.24354096926885
+    ],
+    "time": [
+      0.85,
+      0.97
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24304484734242507,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      45.249658203125,
+      162.18173828125,
+      0.328125
+    ],
+    "drone_pose": [
+      15.720918631740645,
+      157.87175944451187,
+      23,
+      192.2491206054839
+    ],
+    "time": [
+      0.67,
+      0.55
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24736948078099252,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      45.249658203125,
+      162.18173828125,
+      0.328125
+    ],
+    "drone_pose": [
+      52.33045442045973,
+      135.99932577884164,
+      17,
+      311.8824787775388
+    ],
+    "time": [
+      0.82,
+      0.6
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3423220412884167,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      145.345263671875,
+      78.658740234375,
+      -1.109375
+    ],
+    "drone_pose": [
+      115.63567705601552,
+      78.91291958845436,
+      24,
+      36.42428384343077
+    ],
+    "time": [
+      0.85,
+      0.94
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      13.523193359375,
+      94.998291015625,
+      -2.109375
+    ],
+    "drone_pose": [
+      16.792148738449963,
+      112.92884934572575,
+      28,
+      131.35831181267685
+    ],
+    "time": [
+      0.54,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23411963872318642,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      2.638671875,
+      204.925,
+      -0.375
+    ],
+    "drone_pose": [
+      27.115792528371355,
+      217.42435344233658,
+      17,
+      117.99636929167467
+    ],
+    "time": [
+      0.35,
+      0.95
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2279506324020739,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      145.345263671875,
+      78.658740234375,
+      -1.109375
+    ],
+    "drone_pose": [
+      122.54523635271934,
+      86.07500517016642,
+      28,
+      25.514625615717033
+    ],
+    "time": [
+      0.65,
+      0.68
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21745022119004018,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      123.48760939410198,
+      56.42703795756939,
+      17,
+      200.40016490672835
+    ],
+    "time": [
+      0.84,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      157.8845406779208,
+      39.17891215010064,
+      29,
+      184.53679228982102
+    ],
+    "time": [
+      0.4,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23346053545705195,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      13.523193359375,
+      94.998291015625,
+      -2.109375
+    ],
+    "drone_pose": [
+      33.922684875107706,
+      86.03766318712391,
+      30,
+      150.04815501401367
+    ],
+    "time": [
+      0.64,
+      0.41
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      71.075927734375,
+      159.151611328125,
+      0.390625
+    ],
+    "drone_pose": [
+      89.67027802161195,
+      137.9745017415291,
+      17,
+      173.2422643001103
+    ],
+    "time": [
+      0.65,
+      0.69
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27932836195761124,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      16.709423828125,
+      7.7154296875,
+      -1.109375
+    ],
+    "drone_pose": [
+      37.64415434484973,
+      0,
+      17,
+      233.91572864688928
+    ],
+    "time": [
+      0.87,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.2275390625,
+      11.38623046875,
+      -1.09375
+    ],
+    "drone_pose": [
+      33.149984386636774,
+      12.15380070108084,
+      25,
+      243.235736864855
+    ],
+    "time": [
+      0.58,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3183674108421306,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      13.523193359375,
+      94.998291015625,
+      -2.109375
+    ],
+    "drone_pose": [
+      25.816808309949906,
+      97.9183115303702,
+      21,
+      7.898444599561669
+    ],
+    "time": [
+      0.34,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2149293599694754,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.2275390625,
+      11.38623046875,
+      -1.09375
+    ],
+    "drone_pose": [
+      10.319856437504924,
+      38.668533314901396,
+      30,
+      41.3469404895974
+    ],
+    "time": [
+      0.82,
+      0.04
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      71.075927734375,
+      159.151611328125,
+      0.390625
+    ],
+    "drone_pose": [
+      42.037348429798,
+      159.76630759758456,
+      19,
+      261.3544744991952
+    ],
+    "time": [
+      0.61,
+      0.73
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3393566208003947,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      151.953125,
+      218.910888671875,
+      -0.234375
+    ],
+    "drone_pose": [
+      177.6492705260864,
+      210.0144882229989,
+      22,
+      177.50279519415633
+    ],
+    "time": [
+      0.35,
+      0.45
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -1.2782226562499996,
+      173.77744140625,
+      -0.71875
+    ],
+    "drone_pose": [
+      0,
+      202.2788656115168,
+      25,
+      320.7273480067018
+    ],
+    "time": [
+      0.5,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      57.90224609375,
+      218.712255859375,
+      0.328125
+    ],
+    "drone_pose": [
+      40.75049206900276,
+      194.22339151413115,
+      15,
+      191.35240513921025
+    ],
+    "time": [
+      0.88,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      126.18408203125,
+      100.44375,
+      -1.109375
+    ],
+    "drone_pose": [
+      135.0465220871674,
+      127.10205566062291,
+      18,
+      257.8431484978432
+    ],
+    "time": [
+      0.67,
+      0.89
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.225390625,
+      114.816796875,
+      -1.125
+    ],
+    "drone_pose": [
+      48.38902915596648,
+      102.22206032184245,
+      28,
+      311.852846671671
+    ],
+    "time": [
+      0.86,
+      0.89
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22462405103411345,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -2.33251953125,
+      194.30107421875,
+      -0.96875
+    ],
+    "drone_pose": [
+      0,
+      179.9887197989716,
+      19,
+      98.74868973269231
+    ],
+    "time": [
+      0.55,
+      0.99
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22940543326848395,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      204.5482421875,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      208,
+      47.35277562646271,
+      30,
+      256.0845092947826
+    ],
+    "time": [
+      0.8,
+      0.95
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21779847733141228,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      145.345263671875,
+      78.658740234375,
+      -1.109375
+    ],
+    "drone_pose": [
+      122.54523635271934,
+      86.07500517016642,
+      28,
+      25.514625615717033
+    ],
+    "time": [
+      0.82,
+      0.03
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      101.324365234375,
+      69.18408203125,
+      -1.109375
+    ],
+    "drone_pose": [
+      102.4106367156638,
+      42.5093357517269,
+      17,
+      273.96296242586976
+    ],
+    "time": [
+      0.65,
+      0.19
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23032781691334764,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -2.33251953125,
+      194.30107421875,
+      -0.96875
+    ],
+    "drone_pose": [
+      10.783154208001383,
+      177.7659096146104,
+      19,
+      315.08246655046844
+    ],
+    "time": [
+      0.89,
+      0.84
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21077342486748724,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      175.094921875,
+      179.6919921875,
+      -1.0625
+    ],
+    "drone_pose": [
+      173.1384465555986,
+      158.45235251083724,
+      15,
+      205.48212351044842
+    ],
+    "time": [
+      0.83,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2791192180678934,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -1.2782226562499996,
+      173.77744140625,
+      -0.71875
+    ],
+    "drone_pose": [
+      0,
+      202.2788656115168,
+      25,
+      320.7273480067018
+    ],
+    "time": [
+      0.5,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32734950892315956,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      99.366162109375,
+      42.646728515625,
+      -1.109375
+    ],
+    "drone_pose": [
+      108.4911751613919,
+      52.97338897703413,
+      21,
+      128.78968638150275
+    ],
+    "time": [
+      0.86,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2803457526345686,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      124.22587890625,
+      79.4646484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      113.32340828418255,
+      80.1158718996681,
+      30,
+      33.938524768973785
+    ],
+    "time": [
+      0.69,
+      0.41
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23809279229161595,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      145.345263671875,
+      78.658740234375,
+      -1.109375
+    ],
+    "drone_pose": [
+      129.43856151089426,
+      60.19010990564658,
+      25,
+      259.51813903692545
+    ],
+    "time": [
+      0.81,
+      0.31
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23556876142550895,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.151611328125,
+      167.8466796875,
+      0.390625
+    ],
+    "drone_pose": [
+      29.633110646106914,
+      196.12047153947333,
+      29,
+      280.9931268343538
+    ],
+    "time": [
+      0.57,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      71.075927734375,
+      159.151611328125,
+      0.390625
+    ],
+    "drone_pose": [
+      52.34422085561262,
+      144.41034984400716,
+      23,
+      77.27946641912692
+    ],
+    "time": [
+      0.3,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31209839366444897,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      124.22587890625,
+      79.4646484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      137.7589329600442,
+      63.52685596265021,
+      16,
+      195.18280032207136
+    ],
+    "time": [
+      0.84,
+      0.47
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.337371351953875,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      97.48735883477971,
+      43.282987242467165,
+      17,
+      126.15338429647323
+    ],
+    "time": [
+      0.36,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2978259220881725,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      94.864453125,
+      140.77138671875,
+      0.59375
+    ],
+    "drone_pose": [
+      118.0365687437043,
+      130.85573000433362,
+      16,
+      296.43775938658894
+    ],
+    "time": [
+      0.41,
+      0.06
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30860533978657956,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      2.638671875,
+      204.925,
+      -0.375
+    ],
+    "drone_pose": [
+      27.115792528371355,
+      217.42435344233658,
+      17,
+      117.99636929167467
+    ],
+    "time": [
+      0.8,
+      0.83
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2300762699204736,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      53.5380859375,
+      179.613037109375,
+      0.390625
+    ],
+    "drone_pose": [
+      30.83092751372398,
+      161.9044928837345,
+      20,
+      117.59286673012926
+    ],
+    "time": [
+      0.46,
+      0.04
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.151611328125,
+      167.8466796875,
+      0.390625
+    ],
+    "drone_pose": [
+      14.183721778358265,
+      160.30904701621773,
+      18,
+      167.7155297345946
+    ],
+    "time": [
+      0.88,
+      0.45
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      74.261669921875,
+      30.652734375,
+      -1.109375
+    ],
+    "drone_pose": [
+      46.31046808193969,
+      20.336543939290735,
+      21,
+      205.08490737235206
+    ],
+    "time": [
+      0.69,
+      0.82
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3371374022438295,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      74.261669921875,
+      30.652734375,
+      -1.109375
+    ],
+    "drone_pose": [
+      46.31046808193969,
+      20.336543939290735,
+      21,
+      205.08490737235206
+    ],
+    "time": [
+      0.69,
+      0.82
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33704232237768866,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      204.5482421875,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      208,
+      47.35277562646271,
+      30,
+      256.0845092947826
+    ],
+    "time": [
+      0.69,
+      0.94
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24683883132767756,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      36.918359375,
+      51.387890625,
+      -1.125
+    ],
+    "drone_pose": [
+      50.40596956244345,
+      27.76833776682515,
+      20,
+      78.79550284549082
+    ],
+    "time": [
+      0.88,
+      0.13
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27073199490013766,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      74.261669921875,
+      30.652734375,
+      -1.109375
+    ],
+    "drone_pose": [
+      91.45416764424374,
+      11.901967830933998,
+      15,
+      307.20143993062186
+    ],
+    "time": [
+      0.85,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3125741979228512,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      94.864453125,
+      140.77138671875,
+      0.59375
+    ],
+    "drone_pose": [
+      118.0365687437043,
+      130.85573000433362,
+      16,
+      296.43775938658894
+    ],
+    "time": [
+      0.41,
+      0.06
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28463497447103925,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      99.366162109375,
+      42.646728515625,
+      -1.109375
+    ],
+    "drone_pose": [
+      118.58050652251839,
+      62.30064077379585,
+      27,
+      31.92392950781166
+    ],
+    "time": [
+      0.82,
+      0.66
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      54.857421875,
+      38.490625,
+      -1.125
+    ],
+    "drone_pose": [
+      39.538390541576135,
+      48.85001214019427,
+      30,
+      80.56826499286298
+    ],
+    "time": [
+      0.43,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32911572295885066,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      161.07958984375,
+      87.22587890625,
+      -1.109375
+    ],
+    "drone_pose": [
+      170.72192877417058,
+      100.56884896931989,
+      20,
+      328.5863889808925
+    ],
+    "time": [
+      0.83,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3485763300153798,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      92.46348858422458,
+      59.39420188581411,
+      16,
+      210.62511904132901
+    ],
+    "time": [
+      0.36,
+      0.53
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3486306135393049,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      86.69581153640557,
+      22.27182405923185,
+      16,
+      28.568800563628972
+    ],
+    "time": [
+      0.87,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.258883922094419,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      45.249658203125,
+      162.18173828125,
+      0.328125
+    ],
+    "drone_pose": [
+      64.32457504913714,
+      139.92662967273807,
+      16,
+      291.226927842645
+    ],
+    "time": [
+      0.87,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22626735848357285,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      30.98046875,
+      56.53125,
+      -1.125
+    ],
+    "drone_pose": [
+      44.22054806903441,
+      69.7630513704123,
+      30,
+      62.87093238551988
+    ],
+    "time": [
+      0.69,
+      0.79
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      127.639453125,
+      190.879248046875,
+      -0.578125
+    ],
+    "drone_pose": [
+      108.59326227905689,
+      170.32214494720546,
+      25,
+      85.64644577566723
+    ],
+    "time": [
+      0.33,
+      0.53
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2350342850231837,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      1.0437988281250004,
+      142.401953125,
+      -1.109375
+    ],
+    "drone_pose": [
+      8.927561548919908,
+      167.976984317974,
+      15,
+      331.17381712644055
+    ],
+    "time": [
+      0.81,
+      0.59
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      102.37216796875,
+      18.41396484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      127.6740232987466,
+      19.728843970658197,
+      26,
+      28.501851393516752
+    ],
+    "time": [
+      0.59,
+      0.31
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30962316605318685,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      161.07958984375,
+      87.22587890625,
+      -1.109375
+    ],
+    "drone_pose": [
+      170.72192877417058,
+      100.56884896931989,
+      20,
+      328.5863889808925
+    ],
+    "time": [
+      0.83,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26428112007229276,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      127.639453125,
+      190.879248046875,
+      -0.578125
+    ],
+    "drone_pose": [
+      116.31887601689583,
+      163.48329551306938,
+      26,
+      162.6205112002772
+    ],
+    "time": [
+      0.5,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3470478626015735,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      181.28857421875,
+      57.99599609375,
+      -1.109375
+    ],
+    "drone_pose": [
+      197.19431431948448,
+      59.07634369716487,
+      30,
+      234.8010048808212
+    ],
+    "time": [
+      0.36,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2512016316543309,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      57.07391734710909,
+      28.02061574051205,
+      26,
+      242.31684221774063
+    ],
+    "time": [
+      0.87,
+      0.69
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      1.0437988281250004,
+      142.401953125,
+      -1.109375
+    ],
+    "drone_pose": [
+      24.905273906985194,
+      152.24598693167746,
+      30,
+      11.404018404719158
+    ],
+    "time": [
+      0.9,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28742492232709327,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      57.90224609375,
+      218.712255859375,
+      0.328125
+    ],
+    "drone_pose": [
+      30.442441503121273,
+      222.17572589726444,
+      22,
+      192.84783639669146
+    ],
+    "time": [
+      0.55,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20895600177223925,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      166.05378336217493,
+      50.2208431177814,
+      26,
+      358.32475913972036
+    ],
+    "time": [
+      0.8,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21821069165117746,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      175.094921875,
+      179.6919921875,
+      -1.0625
+    ],
+    "drone_pose": [
+      193.1066359461559,
+      159.06365202506944,
+      27,
+      205.53237499792704
+    ],
+    "time": [
+      0.88,
+      0.28
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3135866014848067,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      53.5380859375,
+      179.613037109375,
+      0.390625
+    ],
+    "drone_pose": [
+      32.34915636967409,
+      179.09746240456496,
+      30,
+      258.5042680955621
+    ],
+    "time": [
+      0.51,
+      0.28
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      52.592465307949304,
+      146.29482846596218,
+      23,
+      202.06661467575398
+    ],
+    "time": [
+      0.62,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      124.22587890625,
+      79.4646484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      137.7589329600442,
+      63.52685596265021,
+      16,
+      195.18280032207136
+    ],
+    "time": [
+      0.55,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2225846738296705,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      60.50054745714741,
+      15.414244905334172,
+      30,
+      276.6300941195523
+    ],
+    "time": [
+      0.31,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      94.00020806449295,
+      184.28706119778832,
+      22,
+      182.74777367340738
+    ],
+    "time": [
+      0.34,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22313439795895118,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.469140625,
+      64.28515625,
+      -1.125
+    ],
+    "drone_pose": [
+      27.637830897820194,
+      45.78110749261049,
+      27,
+      181.5069285027176
+    ],
+    "time": [
+      0.65,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21591727940210856,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      54.857421875,
+      38.490625,
+      -1.125
+    ],
+    "drone_pose": [
+      46.61505940658681,
+      11.670067514446266,
+      17,
+      313.5360000973347
+    ],
+    "time": [
+      0.53,
+      0.64
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33996869920519507,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.225390625,
+      114.816796875,
+      -1.125
+    ],
+    "drone_pose": [
+      56.62196443122667,
+      99.17178767252207,
+      17,
+      301.06444766162366
+    ],
+    "time": [
+      0.48,
+      0.48
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23945250193092885,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      60.240771484375,
+      39.4646484375,
+      -1.109375
+    ],
+    "drone_pose": [
+      31.687072533003718,
+      34.87540538389041,
+      22,
+      223.08648021063127
+    ],
+    "time": [
+      0.9,
+      0.31
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23360116563027156,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      74.261669921875,
+      30.652734375,
+      -1.109375
+    ],
+    "drone_pose": [
+      46.31046808193969,
+      20.336543939290735,
+      21,
+      205.08490737235206
+    ],
+    "time": [
+      0.69,
+      0.82
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      103.64730439140554,
+      55.531511426917504,
+      19,
+      201.5086338905796
+    ],
+    "time": [
+      0.8,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24035290849945457,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.469140625,
+      64.28515625,
+      -1.125
+    ],
+    "drone_pose": [
+      27.637830897820194,
+      45.78110749261049,
+      27,
+      181.5069285027176
+    ],
+    "time": [
+      0.65,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23087417421683287,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      57.90224609375,
+      218.712255859375,
+      0.328125
+    ],
+    "drone_pose": [
+      30.442441503121273,
+      222.17572589726444,
+      22,
+      192.84783639669146
+    ],
+    "time": [
+      0.89,
+      0.33
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2532705665875428,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      48.24453125,
+      42.89921875,
+      -1.125
+    ],
+    "drone_pose": [
+      63.88315126288673,
+      28.78604081208446,
+      20,
+      290.428969890962
+    ],
+    "time": [
+      0.82,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      97.48735883477971,
+      43.282987242467165,
+      17,
+      126.15338429647323
+    ],
+    "time": [
+      0.84,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22065300710698396,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      88.21198792970571,
+      146.04797125706273,
+      21,
+      150.28506286893938
+    ],
+    "time": [
+      0.81,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.151611328125,
+      167.8466796875,
+      0.390625
+    ],
+    "drone_pose": [
+      44.27514647348667,
+      193.4903076954402,
+      28,
+      270.94478924705516
+    ],
+    "time": [
+      0.68,
+      0.45
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3147928229942402,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      161.07958984375,
+      87.22587890625,
+      -1.109375
+    ],
+    "drone_pose": [
+      170.72192877417058,
+      100.56884896931989,
+      20,
+      328.5863889808925
+    ],
+    "time": [
+      0.31,
+      0.82
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31474918796994633,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.2275390625,
+      11.38623046875,
+      -1.09375
+    ],
+    "drone_pose": [
+      24.367401960954535,
+      31.433407641231486,
+      26,
+      320.8645114428317
+    ],
+    "time": [
+      0.9,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32162066918090776,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      53.5380859375,
+      179.613037109375,
+      0.390625
+    ],
+    "drone_pose": [
+      32.34915636967409,
+      179.09746240456496,
+      30,
+      258.5042680955621
+    ],
+    "time": [
+      0.84,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33639037307613867,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      126.18408203125,
+      100.44375,
+      -1.109375
+    ],
+    "drone_pose": [
+      131.46635737806676,
+      76.87623530280152,
+      17,
+      239.0435583639091
+    ],
+    "time": [
+      0.85,
+      0.52
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32685657952076363,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      115.27608981002878,
+      68.37794700919973,
+      15,
+      188.92133371774557
+    ],
+    "time": [
+      0.41,
+      0.47
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27195856335985474,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.2275390625,
+      11.38623046875,
+      -1.09375
+    ],
+    "drone_pose": [
+      24.10009022031725,
+      18.434450444040895,
+      23,
+      146.32135264415894
+    ],
+    "time": [
+      0.84,
+      0.22
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2753448380523029,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      95.41880029380131,
+      56.06956612006796,
+      23,
+      143.73899755943995
+    ],
+    "time": [
+      0.58,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2475722256774221,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      43.77474468883041,
+      35.527734741965496,
+      20,
+      58.24354096926885
+    ],
+    "time": [
+      0.68,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      -1.1640625,
+      68.938671875,
+      -1.125
+    ],
+    "drone_pose": [
+      0,
+      44.17434862020493,
+      30,
+      304.688245458565
+    ],
+    "time": [
+      0.8,
+      0.24
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      126.18408203125,
+      100.44375,
+      -1.109375
+    ],
+    "drone_pose": [
+      131.46635737806676,
+      76.87623530280152,
+      17,
+      239.0435583639091
+    ],
+    "time": [
+      0.4,
+      0.83
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      57.90224609375,
+      218.712255859375,
+      0.328125
+    ],
+    "drone_pose": [
+      83.40368513154885,
+      225,
+      18,
+      346.8881614026513
+    ],
+    "time": [
+      0.64,
+      0.29
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3033512197148208,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      1.0437988281250004,
+      142.401953125,
+      -1.109375
+    ],
+    "drone_pose": [
+      24.905273906985194,
+      152.24598693167746,
+      30,
+      11.404018404719158
+    ],
+    "time": [
+      0.9,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32562154201861304,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      145.345263671875,
+      78.658740234375,
+      -1.109375
+    ],
+    "drone_pose": [
+      129.43856151089426,
+      60.19010990564658,
+      25,
+      259.51813903692545
+    ],
+    "time": [
+      0.36,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33332369506278414,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      53.5380859375,
+      179.613037109375,
+      0.390625
+    ],
+    "drone_pose": [
+      30.83092751372398,
+      161.9044928837345,
+      20,
+      117.59286673012926
+    ],
+    "time": [
+      0.86,
+      0.85
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      61.709423828125,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      80.30417658018688,
+      61.733446783564496,
+      16,
+      299.27436658832573
+    ],
+    "time": [
+      0.84,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20535690831820028,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      175.094921875,
+      179.6919921875,
+      -1.0625
+    ],
+    "drone_pose": [
+      193.1066359461559,
+      159.06365202506944,
+      27,
+      205.53237499792704
+    ],
+    "time": [
+      0.88,
+      0.28
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      99.366162109375,
+      42.646728515625,
+      -1.109375
+    ],
+    "drone_pose": [
+      118.58050652251839,
+      62.30064077379585,
+      27,
+      31.92392950781166
+    ],
+    "time": [
+      0.82,
+      0.66
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2854980830028603,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.469140625,
+      64.28515625,
+      -1.125
+    ],
+    "drone_pose": [
+      29.41617616067962,
+      68.07467760248839,
+      22,
+      182.94999949610792
+    ],
+    "time": [
+      0.83,
+      0.78
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      52.592465307949304,
+      146.29482846596218,
+      23,
+      202.06661467575398
+    ],
+    "time": [
+      0.89,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      31.533349609375,
+      9.6736328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      26.86219927809678,
+      18.77879914698982,
+      21,
+      48.34915588561501
+    ],
+    "time": [
+      0.84,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      45.249658203125,
+      162.18173828125,
+      0.328125
+    ],
+    "drone_pose": [
+      52.33045442045973,
+      135.99932577884164,
+      17,
+      311.8824787775388
+    ],
+    "time": [
+      0.82,
+      0.6
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3325709397930156,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      92.46348858422458,
+      59.39420188581411,
+      16,
+      210.62511904132901
+    ],
+    "time": [
+      0.36,
+      0.53
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2356584369588554,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      139.22587890625,
+      57.43486328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      166.05378336217493,
+      50.2208431177814,
+      26,
+      358.32475913972036
+    ],
+    "time": [
+      0.31,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24682407267069092,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      9.855712890625,
+      7.960205078125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.052815125636528,
+      29.471705350225925,
+      25,
+      304.61856248863035
+    ],
+    "time": [
+      0.57,
+      0.99
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      17.509765625,
+      45.509765625,
+      -1.125
+    ],
+    "drone_pose": [
+      22.794150942643405,
+      31.050508047717834,
+      27,
+      212.9852082051037
+    ],
+    "time": [
+      0.82,
+      0.64
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22162605064785182,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      74.261669921875,
+      30.652734375,
+      -1.109375
+    ],
+    "drone_pose": [
+      91.45416764424374,
+      11.901967830933998,
+      15,
+      307.20143993062186
+    ],
+    "time": [
+      0.46,
+      0.93
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2367773102666214,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.37216796875,
+      39.95419921875,
+      -1.109375
+    ],
+    "drone_pose": [
+      95.41880029380131,
+      56.06956612006796,
+      23,
+      143.73899755943995
+    ],
+    "time": [
+      0.85,
+      0.33
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2929770406598389,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      1.0437988281250004,
+      142.401953125,
+      -1.109375
+    ],
+    "drone_pose": [
+      24.905273906985194,
+      152.24598693167746,
+      30,
+      11.404018404719158
+    ],
+    "time": [
+      0.6,
+      0.98
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33056939681934006,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      94.864453125,
+      140.77138671875,
+      0.59375
+    ],
+    "drone_pose": [
+      124.0667174197997,
+      142.89838969213565,
+      18,
+      176.41349398765098
+    ],
+    "time": [
+      0.83,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3186116392974506,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      127.639453125,
+      190.879248046875,
+      -0.578125
+    ],
+    "drone_pose": [
+      155.8415953327108,
+      199.0739416018377,
+      18,
+      141.82490625382138
+    ],
+    "time": [
+      0.87,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33411006185301406,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      4.2275390625,
+      11.38623046875,
+      -1.09375
+    ],
+    "drone_pose": [
+      10.319856437504924,
+      38.668533314901396,
+      30,
+      41.3469404895974
+    ],
+    "time": [
+      0.64,
+      0.16
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      72.467138671875,
+      166.688916015625,
+      0.359375
+    ],
+    "drone_pose": [
+      88.21198792970571,
+      146.04797125706273,
+      21,
+      150.28506286893938
+    ],
+    "time": [
+      0.81,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3480129951600728,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      75.3134765625,
+      58.72509765625,
+      -1.09375
+    ],
+    "drone_pose": [
+      63.1307477493753,
+      70.34056654588365,
+      23,
+      349.11408568265875
+    ],
+    "time": [
+      0.5,
+      0.93
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22429689832097927,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      46.530078125,
+      38.735546875,
+      -1.125
+    ],
+    "drone_pose": [
+      22.363539070513145,
+      28.169557622392755,
+      24,
+      266.3094480165119
+    ],
+    "time": [
+      0.82,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      77.26767578125,
+      42.89150390625,
+      -1.109375
+    ],
+    "drone_pose": [
+      92.46348858422458,
+      59.39420188581411,
+      16,
+      210.62511904132901
+    ],
+    "time": [
+      0.83,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  },
+  {
+    "marker_pose": [
+      13.523193359375,
+      94.998291015625,
+      -2.109375
+    ],
+    "drone_pose": [
+      16.792148738449963,
+      112.92884934572575,
+      28,
+      131.35831181267685
+    ],
+    "time": [
+      0.54,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModularNeighborhood"
+  }
+]

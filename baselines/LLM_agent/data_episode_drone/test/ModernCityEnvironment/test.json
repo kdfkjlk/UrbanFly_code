@@ -1,0 +1,3266 @@
+[
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      57.24230634794837,
+      30,
+      277.02058906595346
+    ],
+    "time": [
+      0.57,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      57.24230634794837,
+      30,
+      277.02058906595346
+    ],
+    "time": [
+      0.57,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26806886903291444,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      57.24230634794837,
+      30,
+      277.02058906595346
+    ],
+    "time": [
+      0.57,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26782359249326604,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      57.24230634794837,
+      30,
+      277.02058906595346
+    ],
+    "time": [
+      0.87,
+      0.52
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      57.24230634794837,
+      30,
+      277.02058906595346
+    ],
+    "time": [
+      0.87,
+      0.52
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2041622537632921,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      57.24230634794837,
+      30,
+      277.02058906595346
+    ],
+    "time": [
+      0.87,
+      0.52
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25457743181872206,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      56.274792750544506,
+      19,
+      339.79768854157345
+    ],
+    "time": [
+      0.44,
+      0.26
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      56.274792750544506,
+      19,
+      339.79768854157345
+    ],
+    "time": [
+      0.44,
+      0.26
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21330901128768126,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      56.274792750544506,
+      19,
+      339.79768854157345
+    ],
+    "time": [
+      0.44,
+      0.26
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28573382902175387,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      56.274792750544506,
+      19,
+      339.79768854157345
+    ],
+    "time": [
+      0.89,
+      0.03
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      56.274792750544506,
+      19,
+      339.79768854157345
+    ],
+    "time": [
+      0.89,
+      0.03
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20561668264715474,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      56.274792750544506,
+      19,
+      339.79768854157345
+    ],
+    "time": [
+      0.89,
+      0.03
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.300068852425879,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      8.945781651414059,
+      24,
+      269.55541578397015
+    ],
+    "time": [
+      0.39,
+      0.4
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      8.945781651414059,
+      24,
+      269.55541578397015
+    ],
+    "time": [
+      0.39,
+      0.4
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30925207632873297,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      8.945781651414059,
+      24,
+      269.55541578397015
+    ],
+    "time": [
+      0.39,
+      0.4
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2712342414297939,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      8.945781651414059,
+      24,
+      269.55541578397015
+    ],
+    "time": [
+      0.8,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      8.945781651414059,
+      24,
+      269.55541578397015
+    ],
+    "time": [
+      0.8,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3451130245291979,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      -2.9479492187500007,
+      35.69833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      0,
+      8.945781651414059,
+      24,
+      269.55541578397015
+    ],
+    "time": [
+      0.8,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22815222325422388,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      19.220754879281166,
+      43.01228865809118,
+      19,
+      197.78301889697394
+    ],
+    "time": [
+      0.35,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      19.220754879281166,
+      43.01228865809118,
+      19,
+      197.78301889697394
+    ],
+    "time": [
+      0.35,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2174569412484696,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      19.220754879281166,
+      43.01228865809118,
+      19,
+      197.78301889697394
+    ],
+    "time": [
+      0.35,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3065816198096993,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      19.220754879281166,
+      43.01228865809118,
+      19,
+      197.78301889697394
+    ],
+    "time": [
+      0.84,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      19.220754879281166,
+      43.01228865809118,
+      19,
+      197.78301889697394
+    ],
+    "time": [
+      0.84,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34807407511518257,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      19.220754879281166,
+      43.01228865809118,
+      19,
+      197.78301889697394
+    ],
+    "time": [
+      0.84,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26347016708772975,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      23.956141043223,
+      51.57291321397041,
+      23,
+      72.40891681567963
+    ],
+    "time": [
+      0.37,
+      0.93
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      23.956141043223,
+      51.57291321397041,
+      23,
+      72.40891681567963
+    ],
+    "time": [
+      0.37,
+      0.93
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2599306471147135,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      23.956141043223,
+      51.57291321397041,
+      23,
+      72.40891681567963
+    ],
+    "time": [
+      0.37,
+      0.93
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29615463802080205,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      23.956141043223,
+      51.57291321397041,
+      23,
+      72.40891681567963
+    ],
+    "time": [
+      0.86,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      23.956141043223,
+      51.57291321397041,
+      23,
+      72.40891681567963
+    ],
+    "time": [
+      0.86,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22769037127436287,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      23.956141043223,
+      51.57291321397041,
+      23,
+      72.40891681567963
+    ],
+    "time": [
+      0.86,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3400779565705938,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.855511021191411,
+      0,
+      15,
+      10.821910981921485
+    ],
+    "time": [
+      0.45,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.855511021191411,
+      0,
+      15,
+      10.821910981921485
+    ],
+    "time": [
+      0.45,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3284091798298706,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.855511021191411,
+      0,
+      15,
+      10.821910981921485
+    ],
+    "time": [
+      0.45,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3263345756019887,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.855511021191411,
+      0,
+      15,
+      10.821910981921485
+    ],
+    "time": [
+      0.85,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.855511021191411,
+      0,
+      15,
+      10.821910981921485
+    ],
+    "time": [
+      0.85,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2977603767215837,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.855511021191411,
+      0,
+      15,
+      10.821910981921485
+    ],
+    "time": [
+      0.85,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33869803812216437,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.828588938437822,
+      48.78607709399256,
+      29,
+      54.99723994039418
+    ],
+    "time": [
+      0.5,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.828588938437822,
+      48.78607709399256,
+      29,
+      54.99723994039418
+    ],
+    "time": [
+      0.5,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.261184804614091,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.828588938437822,
+      48.78607709399256,
+      29,
+      54.99723994039418
+    ],
+    "time": [
+      0.5,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33650601996807317,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.828588938437822,
+      48.78607709399256,
+      29,
+      54.99723994039418
+    ],
+    "time": [
+      0.84,
+      0.33
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.828588938437822,
+      48.78607709399256,
+      29,
+      54.99723994039418
+    ],
+    "time": [
+      0.84,
+      0.33
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24517250855569742,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      19.8751953125,
+      22.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      15.828588938437822,
+      48.78607709399256,
+      29,
+      54.99723994039418
+    ],
+    "time": [
+      0.84,
+      0.33
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3486508013786356,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.85732421875,
+      -0.23769531249999964,
+      -0.90625
+    ],
+    "drone_pose": [
+      27.580143419017666,
+      28.913455965075755,
+      17,
+      116.34254472898947
+    ],
+    "time": [
+      0.48,
+      0.6
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.85732421875,
+      -0.23769531249999964,
+      -0.90625
+    ],
+    "drone_pose": [
+      27.580143419017666,
+      28.913455965075755,
+      17,
+      116.34254472898947
+    ],
+    "time": [
+      0.48,
+      0.6
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3491433250352203,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.85732421875,
+      -0.23769531249999964,
+      -0.90625
+    ],
+    "drone_pose": [
+      27.580143419017666,
+      28.913455965075755,
+      17,
+      116.34254472898947
+    ],
+    "time": [
+      0.48,
+      0.6
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2823143974103899,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.85732421875,
+      -0.23769531249999964,
+      -0.90625
+    ],
+    "drone_pose": [
+      27.580143419017666,
+      28.913455965075755,
+      17,
+      116.34254472898947
+    ],
+    "time": [
+      0.9,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.85732421875,
+      -0.23769531249999964,
+      -0.90625
+    ],
+    "drone_pose": [
+      27.580143419017666,
+      28.913455965075755,
+      17,
+      116.34254472898947
+    ],
+    "time": [
+      0.9,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3050698843025058,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.85732421875,
+      -0.23769531249999964,
+      -0.90625
+    ],
+    "drone_pose": [
+      27.580143419017666,
+      28.913455965075755,
+      17,
+      116.34254472898947
+    ],
+    "time": [
+      0.9,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22482092838991327,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      17.84035282205266,
+      21.747177079040565,
+      18,
+      320.6267344820739
+    ],
+    "time": [
+      0.45,
+      0.73
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      17.84035282205266,
+      21.747177079040565,
+      18,
+      320.6267344820739
+    ],
+    "time": [
+      0.45,
+      0.73
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2927479192319516,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      17.84035282205266,
+      21.747177079040565,
+      18,
+      320.6267344820739
+    ],
+    "time": [
+      0.45,
+      0.73
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31064569689141913,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      17.84035282205266,
+      21.747177079040565,
+      18,
+      320.6267344820739
+    ],
+    "time": [
+      0.85,
+      1.0
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      17.84035282205266,
+      21.747177079040565,
+      18,
+      320.6267344820739
+    ],
+    "time": [
+      0.85,
+      1.0
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32426172369683215,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      17.84035282205266,
+      21.747177079040565,
+      18,
+      320.6267344820739
+    ],
+    "time": [
+      0.85,
+      1.0
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24425573642859652,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      50.69259152028988,
+      34.228828042147384,
+      17,
+      312.9171410260425
+    ],
+    "time": [
+      0.48,
+      0.85
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      50.69259152028988,
+      34.228828042147384,
+      17,
+      312.9171410260425
+    ],
+    "time": [
+      0.48,
+      0.85
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23749078572025825,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      50.69259152028988,
+      34.228828042147384,
+      17,
+      312.9171410260425
+    ],
+    "time": [
+      0.48,
+      0.85
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21952021904797192,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      50.69259152028988,
+      34.228828042147384,
+      17,
+      312.9171410260425
+    ],
+    "time": [
+      0.82,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      50.69259152028988,
+      34.228828042147384,
+      17,
+      312.9171410260425
+    ],
+    "time": [
+      0.82,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34359504941797886,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      50.69259152028988,
+      34.228828042147384,
+      17,
+      312.9171410260425
+    ],
+    "time": [
+      0.82,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3187725626233661,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      52.261775304765344,
+      47.56146134627826,
+      16,
+      338.3307891141591
+    ],
+    "time": [
+      0.49,
+      0.41
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      52.261775304765344,
+      47.56146134627826,
+      16,
+      338.3307891141591
+    ],
+    "time": [
+      0.49,
+      0.41
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31508136257245567,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      52.261775304765344,
+      47.56146134627826,
+      16,
+      338.3307891141591
+    ],
+    "time": [
+      0.49,
+      0.41
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30660773114343054,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      52.261775304765344,
+      47.56146134627826,
+      16,
+      338.3307891141591
+    ],
+    "time": [
+      0.89,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      52.261775304765344,
+      47.56146134627826,
+      16,
+      338.3307891141591
+    ],
+    "time": [
+      0.89,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.246054513898741,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      28.27783203125,
+      42.07275390625,
+      -0.90625
+    ],
+    "drone_pose": [
+      52.261775304765344,
+      47.56146134627826,
+      16,
+      338.3307891141591
+    ],
+    "time": [
+      0.89,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3052217243784706,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      29.67951863843065,
+      49.216452312095,
+      18,
+      160.02444366732647
+    ],
+    "time": [
+      0.7,
+      0.32
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      29.67951863843065,
+      49.216452312095,
+      18,
+      160.02444366732647
+    ],
+    "time": [
+      0.7,
+      0.32
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33988876890932807,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      29.67951863843065,
+      49.216452312095,
+      18,
+      160.02444366732647
+    ],
+    "time": [
+      0.7,
+      0.32
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25086666093486837,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      29.67951863843065,
+      49.216452312095,
+      18,
+      160.02444366732647
+    ],
+    "time": [
+      0.83,
+      0.47
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      29.67951863843065,
+      49.216452312095,
+      18,
+      160.02444366732647
+    ],
+    "time": [
+      0.83,
+      0.47
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24813290618265027,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      29.67951863843065,
+      49.216452312095,
+      18,
+      160.02444366732647
+    ],
+    "time": [
+      0.83,
+      0.47
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3092865515793427,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      48.333267178056886,
+      56.502897371983124,
+      25,
+      247.31747655179467
+    ],
+    "time": [
+      0.55,
+      0.13
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      48.333267178056886,
+      56.502897371983124,
+      25,
+      247.31747655179467
+    ],
+    "time": [
+      0.55,
+      0.13
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21073062394117525,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      48.333267178056886,
+      56.502897371983124,
+      25,
+      247.31747655179467
+    ],
+    "time": [
+      0.55,
+      0.13
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20350211596234152,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      48.333267178056886,
+      56.502897371983124,
+      25,
+      247.31747655179467
+    ],
+    "time": [
+      0.9,
+      0.03
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      48.333267178056886,
+      56.502897371983124,
+      25,
+      247.31747655179467
+    ],
+    "time": [
+      0.9,
+      0.03
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2347101619426918,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      48.333267178056886,
+      56.502897371983124,
+      25,
+      247.31747655179467
+    ],
+    "time": [
+      0.9,
+      0.03
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28072242591881114,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      34.35096631883257,
+      16,
+      350.76235772777625
+    ],
+    "time": [
+      0.6,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      34.35096631883257,
+      16,
+      350.76235772777625
+    ],
+    "time": [
+      0.6,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2376677043690571,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      34.35096631883257,
+      16,
+      350.76235772777625
+    ],
+    "time": [
+      0.6,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31099177851450044,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      34.35096631883257,
+      16,
+      350.76235772777625
+    ],
+    "time": [
+      0.81,
+      0.69
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      34.35096631883257,
+      16,
+      350.76235772777625
+    ],
+    "time": [
+      0.81,
+      0.69
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24381925185161024,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      34.35096631883257,
+      16,
+      350.76235772777625
+    ],
+    "time": [
+      0.81,
+      0.69
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25852507316605045,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      40.05344974797047,
+      53.6890860213406,
+      20,
+      111.5412058950673
+    ],
+    "time": [
+      0.57,
+      0.77
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      40.05344974797047,
+      53.6890860213406,
+      20,
+      111.5412058950673
+    ],
+    "time": [
+      0.57,
+      0.77
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26714352202792413,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      40.05344974797047,
+      53.6890860213406,
+      20,
+      111.5412058950673
+    ],
+    "time": [
+      0.57,
+      0.77
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3046289438766393,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      40.05344974797047,
+      53.6890860213406,
+      20,
+      111.5412058950673
+    ],
+    "time": [
+      0.81,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      40.05344974797047,
+      53.6890860213406,
+      20,
+      111.5412058950673
+    ],
+    "time": [
+      0.81,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20599059982181436,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      40.05344974797047,
+      53.6890860213406,
+      20,
+      111.5412058950673
+    ],
+    "time": [
+      0.81,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22538779731953543,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      35.944529867009365,
+      59,
+      28,
+      94.75459517207604
+    ],
+    "time": [
+      0.57,
+      0.48
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      35.944529867009365,
+      59,
+      28,
+      94.75459517207604
+    ],
+    "time": [
+      0.57,
+      0.48
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3107832254597721,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      35.944529867009365,
+      59,
+      28,
+      94.75459517207604
+    ],
+    "time": [
+      0.57,
+      0.48
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32357695871678666,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      35.944529867009365,
+      59,
+      28,
+      94.75459517207604
+    ],
+    "time": [
+      0.81,
+      0.04
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      35.944529867009365,
+      59,
+      28,
+      94.75459517207604
+    ],
+    "time": [
+      0.81,
+      0.04
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24039769157912638,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      38.931640625,
+      32.80087890625,
+      -0.90625
+    ],
+    "drone_pose": [
+      35.944529867009365,
+      59,
+      28,
+      94.75459517207604
+    ],
+    "time": [
+      0.81,
+      0.04
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3323047468251469,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      53.567578125,
+      15.11884765625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      37.842300436373364,
+      15,
+      94.20183190950358
+    ],
+    "time": [
+      0.43,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      53.567578125,
+      15.11884765625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      37.842300436373364,
+      15,
+      94.20183190950358
+    ],
+    "time": [
+      0.43,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23210044149680514,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      53.567578125,
+      15.11884765625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      37.842300436373364,
+      15,
+      94.20183190950358
+    ],
+    "time": [
+      0.43,
+      0.18
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29646942073520893,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      53.567578125,
+      15.11884765625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      37.842300436373364,
+      15,
+      94.20183190950358
+    ],
+    "time": [
+      0.81,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      53.567578125,
+      15.11884765625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      37.842300436373364,
+      15,
+      94.20183190950358
+    ],
+    "time": [
+      0.81,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23529358538850564,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  },
+  {
+    "marker_pose": [
+      53.567578125,
+      15.11884765625,
+      -0.90625
+    ],
+    "drone_pose": [
+      54,
+      37.842300436373364,
+      15,
+      94.20183190950358
+    ],
+    "time": [
+      0.81,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3214520377893743,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "ModernCityEnvironment"
+  }
+]

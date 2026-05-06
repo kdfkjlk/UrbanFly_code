@@ -1,0 +1,7682 @@
+[
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      21.22626804901931,
+      64,
+      20,
+      36.13556544133607
+    ],
+    "time": [
+      0.38,
+      0.02
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      21.22626804901931,
+      64,
+      20,
+      36.13556544133607
+    ],
+    "time": [
+      0.38,
+      0.02
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2444967744111929,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      21.22626804901931,
+      64,
+      20,
+      36.13556544133607
+    ],
+    "time": [
+      0.38,
+      0.02
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22124535845054513,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      21.22626804901931,
+      64,
+      20,
+      36.13556544133607
+    ],
+    "time": [
+      0.84,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      21.22626804901931,
+      64,
+      20,
+      36.13556544133607
+    ],
+    "time": [
+      0.84,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2867823561618456,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      21.22626804901931,
+      64,
+      20,
+      36.13556544133607
+    ],
+    "time": [
+      0.84,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23651452071953252,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      57.53816656432713,
+      35.26472483232344,
+      15,
+      277.89677287875423
+    ],
+    "time": [
+      0.49,
+      0.84
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      57.53816656432713,
+      35.26472483232344,
+      15,
+      277.89677287875423
+    ],
+    "time": [
+      0.49,
+      0.84
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22769652319459266,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      57.53816656432713,
+      35.26472483232344,
+      15,
+      277.89677287875423
+    ],
+    "time": [
+      0.49,
+      0.84
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3369061452194403,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      57.53816656432713,
+      35.26472483232344,
+      15,
+      277.89677287875423
+    ],
+    "time": [
+      0.81,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      57.53816656432713,
+      35.26472483232344,
+      15,
+      277.89677287875423
+    ],
+    "time": [
+      0.81,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2497989153288411,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      57.53816656432713,
+      35.26472483232344,
+      15,
+      277.89677287875423
+    ],
+    "time": [
+      0.81,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24246677071359327,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.71911812361706,
+      64,
+      26,
+      145.40604438536113
+    ],
+    "time": [
+      0.44,
+      0.82
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.71911812361706,
+      64,
+      26,
+      145.40604438536113
+    ],
+    "time": [
+      0.44,
+      0.82
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2844752297620864,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.71911812361706,
+      64,
+      26,
+      145.40604438536113
+    ],
+    "time": [
+      0.44,
+      0.82
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2597125472127891,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.71911812361706,
+      64,
+      26,
+      145.40604438536113
+    ],
+    "time": [
+      0.85,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.71911812361706,
+      64,
+      26,
+      145.40604438536113
+    ],
+    "time": [
+      0.85,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.256445609375341,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.71911812361706,
+      64,
+      26,
+      145.40604438536113
+    ],
+    "time": [
+      0.85,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28909238718489016,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.09840655975533,
+      25.63686963786889,
+      19,
+      215.84690118751575
+    ],
+    "time": [
+      0.3,
+      0.32
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.09840655975533,
+      25.63686963786889,
+      19,
+      215.84690118751575
+    ],
+    "time": [
+      0.3,
+      0.32
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25937377650768373,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.09840655975533,
+      25.63686963786889,
+      19,
+      215.84690118751575
+    ],
+    "time": [
+      0.3,
+      0.32
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24788709838406972,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.09840655975533,
+      25.63686963786889,
+      19,
+      215.84690118751575
+    ],
+    "time": [
+      0.89,
+      0.7
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.09840655975533,
+      25.63686963786889,
+      19,
+      215.84690118751575
+    ],
+    "time": [
+      0.89,
+      0.7
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.313466519954948,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.09840655975533,
+      25.63686963786889,
+      19,
+      215.84690118751575
+    ],
+    "time": [
+      0.89,
+      0.7
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22033748675850984,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      8.20313611946635,
+      63.44681187084535,
+      21,
+      20.58550939447005
+    ],
+    "time": [
+      0.59,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      8.20313611946635,
+      63.44681187084535,
+      21,
+      20.58550939447005
+    ],
+    "time": [
+      0.59,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24417825537217053,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      8.20313611946635,
+      63.44681187084535,
+      21,
+      20.58550939447005
+    ],
+    "time": [
+      0.59,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3088588156999897,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      8.20313611946635,
+      63.44681187084535,
+      21,
+      20.58550939447005
+    ],
+    "time": [
+      0.88,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      8.20313611946635,
+      63.44681187084535,
+      21,
+      20.58550939447005
+    ],
+    "time": [
+      0.88,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23658767322922028,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      31.191064453125,
+      49.408837890625,
+      -1.296875
+    ],
+    "drone_pose": [
+      8.20313611946635,
+      63.44681187084535,
+      21,
+      20.58550939447005
+    ],
+    "time": [
+      0.88,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23941733556658185,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.988906347580773,
+      22.523314897601516,
+      28,
+      307.5913440931775
+    ],
+    "time": [
+      0.47,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.988906347580773,
+      22.523314897601516,
+      28,
+      307.5913440931775
+    ],
+    "time": [
+      0.47,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24912190511804594,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.988906347580773,
+      22.523314897601516,
+      28,
+      307.5913440931775
+    ],
+    "time": [
+      0.47,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34983779614389154,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.988906347580773,
+      22.523314897601516,
+      28,
+      307.5913440931775
+    ],
+    "time": [
+      0.81,
+      0.45
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.988906347580773,
+      22.523314897601516,
+      28,
+      307.5913440931775
+    ],
+    "time": [
+      0.81,
+      0.45
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23498180770618776,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.988906347580773,
+      22.523314897601516,
+      28,
+      307.5913440931775
+    ],
+    "time": [
+      0.81,
+      0.45
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2817841980159001,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      29.193128344557586,
+      59.9577595365693,
+      24,
+      59.70329637598307
+    ],
+    "time": [
+      0.33,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      29.193128344557586,
+      59.9577595365693,
+      24,
+      59.70329637598307
+    ],
+    "time": [
+      0.33,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3424303274202229,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      29.193128344557586,
+      59.9577595365693,
+      24,
+      59.70329637598307
+    ],
+    "time": [
+      0.33,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2787033187148057,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      29.193128344557586,
+      59.9577595365693,
+      24,
+      59.70329637598307
+    ],
+    "time": [
+      0.85,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      29.193128344557586,
+      59.9577595365693,
+      24,
+      59.70329637598307
+    ],
+    "time": [
+      0.85,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2865390360254414,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      29.193128344557586,
+      59.9577595365693,
+      24,
+      59.70329637598307
+    ],
+    "time": [
+      0.85,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29303896712287486,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.633900631185266,
+      64,
+      15,
+      347.0151514160941
+    ],
+    "time": [
+      0.6,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.633900631185266,
+      64,
+      15,
+      347.0151514160941
+    ],
+    "time": [
+      0.6,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33956986557283453,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.633900631185266,
+      64,
+      15,
+      347.0151514160941
+    ],
+    "time": [
+      0.6,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32228301687238853,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.633900631185266,
+      64,
+      15,
+      347.0151514160941
+    ],
+    "time": [
+      0.85,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.633900631185266,
+      64,
+      15,
+      347.0151514160941
+    ],
+    "time": [
+      0.85,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26816930057645216,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      19.633900631185266,
+      64,
+      15,
+      347.0151514160941
+    ],
+    "time": [
+      0.85,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26803807616601855,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.95024553146728,
+      26.182255525741713,
+      21,
+      146.4415272677171
+    ],
+    "time": [
+      0.54,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.95024553146728,
+      26.182255525741713,
+      21,
+      146.4415272677171
+    ],
+    "time": [
+      0.54,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21441162273086595,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.95024553146728,
+      26.182255525741713,
+      21,
+      146.4415272677171
+    ],
+    "time": [
+      0.54,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22884593744855491,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.95024553146728,
+      26.182255525741713,
+      21,
+      146.4415272677171
+    ],
+    "time": [
+      0.88,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.95024553146728,
+      26.182255525741713,
+      21,
+      146.4415272677171
+    ],
+    "time": [
+      0.88,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24055728312089975,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      32.95024553146728,
+      26.182255525741713,
+      21,
+      146.4415272677171
+    ],
+    "time": [
+      0.88,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33546389662166665,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      17.395284695636864,
+      25.941531283428304,
+      16,
+      129.2301792920818
+    ],
+    "time": [
+      0.51,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      17.395284695636864,
+      25.941531283428304,
+      16,
+      129.2301792920818
+    ],
+    "time": [
+      0.51,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2409614829349209,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      17.395284695636864,
+      25.941531283428304,
+      16,
+      129.2301792920818
+    ],
+    "time": [
+      0.51,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.343787306664582,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      17.395284695636864,
+      25.941531283428304,
+      16,
+      129.2301792920818
+    ],
+    "time": [
+      0.85,
+      0.28
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      17.395284695636864,
+      25.941531283428304,
+      16,
+      129.2301792920818
+    ],
+    "time": [
+      0.85,
+      0.28
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30456243397046356,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      35.957373046875,
+      46.943505859375,
+      -1.296875
+    ],
+    "drone_pose": [
+      17.395284695636864,
+      25.941531283428304,
+      16,
+      129.2301792920818
+    ],
+    "time": [
+      0.85,
+      0.28
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26713382199982544,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      28.84287908835007,
+      23.51563796185901,
+      25,
+      116.96131312583056
+    ],
+    "time": [
+      0.63,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      28.84287908835007,
+      23.51563796185901,
+      25,
+      116.96131312583056
+    ],
+    "time": [
+      0.63,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25249229143123014,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      28.84287908835007,
+      23.51563796185901,
+      25,
+      116.96131312583056
+    ],
+    "time": [
+      0.63,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3187911627266881,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      28.84287908835007,
+      23.51563796185901,
+      25,
+      116.96131312583056
+    ],
+    "time": [
+      0.88,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      28.84287908835007,
+      23.51563796185901,
+      25,
+      116.96131312583056
+    ],
+    "time": [
+      0.88,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2991457748341887,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      28.84287908835007,
+      23.51563796185901,
+      25,
+      116.96131312583056
+    ],
+    "time": [
+      0.88,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3057121831351839,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.50991857705693,
+      17.061769184659095,
+      25,
+      166.06593754224951
+    ],
+    "time": [
+      0.33,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.50991857705693,
+      17.061769184659095,
+      25,
+      166.06593754224951
+    ],
+    "time": [
+      0.33,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3383048630525799,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.50991857705693,
+      17.061769184659095,
+      25,
+      166.06593754224951
+    ],
+    "time": [
+      0.33,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21621189421013637,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.50991857705693,
+      17.061769184659095,
+      25,
+      166.06593754224951
+    ],
+    "time": [
+      0.8,
+      0.39
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.50991857705693,
+      17.061769184659095,
+      25,
+      166.06593754224951
+    ],
+    "time": [
+      0.8,
+      0.39
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32462082710635826,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.50991857705693,
+      17.061769184659095,
+      25,
+      166.06593754224951
+    ],
+    "time": [
+      0.8,
+      0.39
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21849407035208995,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.004317881015357,
+      31.508682349570783,
+      17,
+      41.76605305583436
+    ],
+    "time": [
+      0.51,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.004317881015357,
+      31.508682349570783,
+      17,
+      41.76605305583436
+    ],
+    "time": [
+      0.51,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3190092485719955,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.004317881015357,
+      31.508682349570783,
+      17,
+      41.76605305583436
+    ],
+    "time": [
+      0.51,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23746473531463452,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.004317881015357,
+      31.508682349570783,
+      17,
+      41.76605305583436
+    ],
+    "time": [
+      0.9,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.004317881015357,
+      31.508682349570783,
+      17,
+      41.76605305583436
+    ],
+    "time": [
+      0.9,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2769375563356676,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      15.004317881015357,
+      31.508682349570783,
+      17,
+      41.76605305583436
+    ],
+    "time": [
+      0.9,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2420163082669745,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      40.392207086472396,
+      18.71234245425287,
+      24,
+      211.23044311929877
+    ],
+    "time": [
+      0.4,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      40.392207086472396,
+      18.71234245425287,
+      24,
+      211.23044311929877
+    ],
+    "time": [
+      0.4,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32930197344370615,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      40.392207086472396,
+      18.71234245425287,
+      24,
+      211.23044311929877
+    ],
+    "time": [
+      0.4,
+      0.38
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27979230490723866,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      40.392207086472396,
+      18.71234245425287,
+      24,
+      211.23044311929877
+    ],
+    "time": [
+      0.89,
+      0.25
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      40.392207086472396,
+      18.71234245425287,
+      24,
+      211.23044311929877
+    ],
+    "time": [
+      0.89,
+      0.25
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2814642908655167,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      40.392207086472396,
+      18.71234245425287,
+      24,
+      211.23044311929877
+    ],
+    "time": [
+      0.89,
+      0.25
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24858816243363463,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      37.17297271733755,
+      63.92052960526111,
+      17,
+      64.07630378552504
+    ],
+    "time": [
+      0.4,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      37.17297271733755,
+      63.92052960526111,
+      17,
+      64.07630378552504
+    ],
+    "time": [
+      0.4,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23329365880739705,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      37.17297271733755,
+      63.92052960526111,
+      17,
+      64.07630378552504
+    ],
+    "time": [
+      0.4,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24263104531741445,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      37.17297271733755,
+      63.92052960526111,
+      17,
+      64.07630378552504
+    ],
+    "time": [
+      0.89,
+      0.3
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      37.17297271733755,
+      63.92052960526111,
+      17,
+      64.07630378552504
+    ],
+    "time": [
+      0.89,
+      0.3
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30008104804159086,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      29.218798828125,
+      42.741650390625,
+      -1.296875
+    ],
+    "drone_pose": [
+      37.17297271733755,
+      63.92052960526111,
+      17,
+      64.07630378552504
+    ],
+    "time": [
+      0.89,
+      0.3
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23303487175622245,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.30699096343367,
+      0,
+      19,
+      190.3399659317814
+    ],
+    "time": [
+      0.43,
+      0.44
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.30699096343367,
+      0,
+      19,
+      190.3399659317814
+    ],
+    "time": [
+      0.43,
+      0.44
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24483573641683154,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.30699096343367,
+      0,
+      19,
+      190.3399659317814
+    ],
+    "time": [
+      0.43,
+      0.44
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3051827959389606,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.30699096343367,
+      0,
+      19,
+      190.3399659317814
+    ],
+    "time": [
+      0.89,
+      0.87
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.30699096343367,
+      0,
+      19,
+      190.3399659317814
+    ],
+    "time": [
+      0.89,
+      0.87
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20124704739527446,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      17.30699096343367,
+      0,
+      19,
+      190.3399659317814
+    ],
+    "time": [
+      0.89,
+      0.87
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25150620156270237,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.546451837131038,
+      8.125251827913122,
+      26,
+      337.74923453451856
+    ],
+    "time": [
+      0.55,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.546451837131038,
+      8.125251827913122,
+      26,
+      337.74923453451856
+    ],
+    "time": [
+      0.55,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2649510444500713,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.546451837131038,
+      8.125251827913122,
+      26,
+      337.74923453451856
+    ],
+    "time": [
+      0.55,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3192723901417758,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.546451837131038,
+      8.125251827913122,
+      26,
+      337.74923453451856
+    ],
+    "time": [
+      0.83,
+      0.21
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.546451837131038,
+      8.125251827913122,
+      26,
+      337.74923453451856
+    ],
+    "time": [
+      0.83,
+      0.21
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28811967690931967,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.546451837131038,
+      8.125251827913122,
+      26,
+      337.74923453451856
+    ],
+    "time": [
+      0.83,
+      0.21
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34489650834676977,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.71995300499122,
+      5.548223805359237,
+      18,
+      320.33522786933173
+    ],
+    "time": [
+      0.44,
+      0.64
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.71995300499122,
+      5.548223805359237,
+      18,
+      320.33522786933173
+    ],
+    "time": [
+      0.44,
+      0.64
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27066257703591096,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.71995300499122,
+      5.548223805359237,
+      18,
+      320.33522786933173
+    ],
+    "time": [
+      0.44,
+      0.64
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34641734353787373,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.71995300499122,
+      5.548223805359237,
+      18,
+      320.33522786933173
+    ],
+    "time": [
+      0.89,
+      0.85
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.71995300499122,
+      5.548223805359237,
+      18,
+      320.33522786933173
+    ],
+    "time": [
+      0.89,
+      0.85
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26466483065960256,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.71995300499122,
+      5.548223805359237,
+      18,
+      320.33522786933173
+    ],
+    "time": [
+      0.89,
+      0.85
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2829322221946454,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      25.194051649481743,
+      0.04019908021268925,
+      28,
+      75.76005972027305
+    ],
+    "time": [
+      0.58,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      25.194051649481743,
+      0.04019908021268925,
+      28,
+      75.76005972027305
+    ],
+    "time": [
+      0.58,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22976325129135255,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      25.194051649481743,
+      0.04019908021268925,
+      28,
+      75.76005972027305
+    ],
+    "time": [
+      0.58,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2750262508455805,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      25.194051649481743,
+      0.04019908021268925,
+      28,
+      75.76005972027305
+    ],
+    "time": [
+      0.84,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      25.194051649481743,
+      0.04019908021268925,
+      28,
+      75.76005972027305
+    ],
+    "time": [
+      0.84,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3198599505984371,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.5462402343750004,
+      13.876611328125,
+      -1.109375
+    ],
+    "drone_pose": [
+      25.194051649481743,
+      0.04019908021268925,
+      28,
+      75.76005972027305
+    ],
+    "time": [
+      0.84,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3146608079476777,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.655035722551403,
+      7.269243811367188,
+      18,
+      147.22006326217277
+    ],
+    "time": [
+      0.51,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.655035722551403,
+      7.269243811367188,
+      18,
+      147.22006326217277
+    ],
+    "time": [
+      0.51,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2877941472218853,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.655035722551403,
+      7.269243811367188,
+      18,
+      147.22006326217277
+    ],
+    "time": [
+      0.51,
+      0.58
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29510534460683785,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.655035722551403,
+      7.269243811367188,
+      18,
+      147.22006326217277
+    ],
+    "time": [
+      0.85,
+      0.22
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.655035722551403,
+      7.269243811367188,
+      18,
+      147.22006326217277
+    ],
+    "time": [
+      0.85,
+      0.22
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22702851806573326,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.655035722551403,
+      7.269243811367188,
+      18,
+      147.22006326217277
+    ],
+    "time": [
+      0.85,
+      0.22
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24917133294403943,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      18.49157100016174,
+      23.455747530553218,
+      27,
+      36.8539243940363
+    ],
+    "time": [
+      0.61,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      18.49157100016174,
+      23.455747530553218,
+      27,
+      36.8539243940363
+    ],
+    "time": [
+      0.61,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3174105014118916,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      18.49157100016174,
+      23.455747530553218,
+      27,
+      36.8539243940363
+    ],
+    "time": [
+      0.61,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3314508419180957,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      18.49157100016174,
+      23.455747530553218,
+      27,
+      36.8539243940363
+    ],
+    "time": [
+      0.85,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      18.49157100016174,
+      23.455747530553218,
+      27,
+      36.8539243940363
+    ],
+    "time": [
+      0.85,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24802771737626714,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      18.49157100016174,
+      23.455747530553218,
+      27,
+      36.8539243940363
+    ],
+    "time": [
+      0.85,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22312689313204614,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      23.28716412428997,
+      14.309026975269779,
+      27,
+      4.071905763107648
+    ],
+    "time": [
+      0.55,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      23.28716412428997,
+      14.309026975269779,
+      27,
+      4.071905763107648
+    ],
+    "time": [
+      0.55,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21018863534072535,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      23.28716412428997,
+      14.309026975269779,
+      27,
+      4.071905763107648
+    ],
+    "time": [
+      0.55,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3077381290660725,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      23.28716412428997,
+      14.309026975269779,
+      27,
+      4.071905763107648
+    ],
+    "time": [
+      0.84,
+      0.95
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      23.28716412428997,
+      14.309026975269779,
+      27,
+      4.071905763107648
+    ],
+    "time": [
+      0.84,
+      0.95
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31288828569843774,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      23.28716412428997,
+      14.309026975269779,
+      27,
+      4.071905763107648
+    ],
+    "time": [
+      0.84,
+      0.95
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2483646846607822,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      22.898278487972036,
+      17.44843611623653,
+      17,
+      354.33341847243577
+    ],
+    "time": [
+      0.52,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      22.898278487972036,
+      17.44843611623653,
+      17,
+      354.33341847243577
+    ],
+    "time": [
+      0.52,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2172391016792927,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      22.898278487972036,
+      17.44843611623653,
+      17,
+      354.33341847243577
+    ],
+    "time": [
+      0.52,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22591492041348837,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      22.898278487972036,
+      17.44843611623653,
+      17,
+      354.33341847243577
+    ],
+    "time": [
+      0.9,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      22.898278487972036,
+      17.44843611623653,
+      17,
+      354.33341847243577
+    ],
+    "time": [
+      0.9,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34712313887766144,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      22.898278487972036,
+      17.44843611623653,
+      17,
+      354.33341847243577
+    ],
+    "time": [
+      0.9,
+      0.43
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21957710887488666,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.616904801980972,
+      7.523258666716417,
+      20,
+      238.06125919677328
+    ],
+    "time": [
+      0.67,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.616904801980972,
+      7.523258666716417,
+      20,
+      238.06125919677328
+    ],
+    "time": [
+      0.67,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26282223110714936,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.616904801980972,
+      7.523258666716417,
+      20,
+      238.06125919677328
+    ],
+    "time": [
+      0.67,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2964657582631437,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.616904801980972,
+      7.523258666716417,
+      20,
+      238.06125919677328
+    ],
+    "time": [
+      0.88,
+      0.51
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.616904801980972,
+      7.523258666716417,
+      20,
+      238.06125919677328
+    ],
+    "time": [
+      0.88,
+      0.51
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3401215218787934,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      -0.7094238281250007,
+      0.8219238281249996,
+      -1.109375
+    ],
+    "drone_pose": [
+      27.616904801980972,
+      7.523258666716417,
+      20,
+      238.06125919677328
+    ],
+    "time": [
+      0.88,
+      0.51
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31088907118612663,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.515867145499698,
+      51.98567737172997,
+      23,
+      152.1579395495869
+    ],
+    "time": [
+      0.38,
+      0.14
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.515867145499698,
+      51.98567737172997,
+      23,
+      152.1579395495869
+    ],
+    "time": [
+      0.38,
+      0.14
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20607534678658093,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.515867145499698,
+      51.98567737172997,
+      23,
+      152.1579395495869
+    ],
+    "time": [
+      0.38,
+      0.14
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2459077621119587,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.515867145499698,
+      51.98567737172997,
+      23,
+      152.1579395495869
+    ],
+    "time": [
+      0.89,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.515867145499698,
+      51.98567737172997,
+      23,
+      152.1579395495869
+    ],
+    "time": [
+      0.89,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30841880910657005,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.515867145499698,
+      51.98567737172997,
+      23,
+      152.1579395495869
+    ],
+    "time": [
+      0.89,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2899260562609881,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.743834353117556,
+      44.8207319029091,
+      15,
+      240.69204909226428
+    ],
+    "time": [
+      0.34,
+      0.62
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.743834353117556,
+      44.8207319029091,
+      15,
+      240.69204909226428
+    ],
+    "time": [
+      0.34,
+      0.62
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2803443856849471,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.743834353117556,
+      44.8207319029091,
+      15,
+      240.69204909226428
+    ],
+    "time": [
+      0.34,
+      0.62
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2862502234570662,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.743834353117556,
+      44.8207319029091,
+      15,
+      240.69204909226428
+    ],
+    "time": [
+      0.85,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.743834353117556,
+      44.8207319029091,
+      15,
+      240.69204909226428
+    ],
+    "time": [
+      0.85,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2847701498124133,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.743834353117556,
+      44.8207319029091,
+      15,
+      240.69204909226428
+    ],
+    "time": [
+      0.85,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21054202831429764,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      28.601252574427413,
+      43.70471645347452,
+      22,
+      307.3521356103056
+    ],
+    "time": [
+      0.65,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      28.601252574427413,
+      43.70471645347452,
+      22,
+      307.3521356103056
+    ],
+    "time": [
+      0.65,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2300640852061142,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      28.601252574427413,
+      43.70471645347452,
+      22,
+      307.3521356103056
+    ],
+    "time": [
+      0.65,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23094365526010674,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      28.601252574427413,
+      43.70471645347452,
+      22,
+      307.3521356103056
+    ],
+    "time": [
+      0.82,
+      0.16
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      28.601252574427413,
+      43.70471645347452,
+      22,
+      307.3521356103056
+    ],
+    "time": [
+      0.82,
+      0.16
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29146368686316615,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      28.601252574427413,
+      43.70471645347452,
+      22,
+      307.3521356103056
+    ],
+    "time": [
+      0.82,
+      0.16
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21035764857750042,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.598460547418796,
+      62.8339776361654,
+      17,
+      181.99789189086283
+    ],
+    "time": [
+      0.57,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.598460547418796,
+      62.8339776361654,
+      17,
+      181.99789189086283
+    ],
+    "time": [
+      0.57,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22778196190414945,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.598460547418796,
+      62.8339776361654,
+      17,
+      181.99789189086283
+    ],
+    "time": [
+      0.57,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3008610176709237,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.598460547418796,
+      62.8339776361654,
+      17,
+      181.99789189086283
+    ],
+    "time": [
+      0.88,
+      0.44
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.598460547418796,
+      62.8339776361654,
+      17,
+      181.99789189086283
+    ],
+    "time": [
+      0.88,
+      0.44
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3137534607464182,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.5960449218750004,
+      38.060693359375,
+      -1.109375
+    ],
+    "drone_pose": [
+      16.598460547418796,
+      62.8339776361654,
+      17,
+      181.99789189086283
+    ],
+    "time": [
+      0.88,
+      0.44
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2533206804639198,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      29.50730883388076,
+      1.2662515468729971,
+      18,
+      349.9089607357805
+    ],
+    "time": [
+      0.66,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      29.50730883388076,
+      1.2662515468729971,
+      18,
+      349.9089607357805
+    ],
+    "time": [
+      0.66,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2900091163265972,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      29.50730883388076,
+      1.2662515468729971,
+      18,
+      349.9089607357805
+    ],
+    "time": [
+      0.66,
+      0.27
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2731679771079072,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      29.50730883388076,
+      1.2662515468729971,
+      18,
+      349.9089607357805
+    ],
+    "time": [
+      0.89,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      29.50730883388076,
+      1.2662515468729971,
+      18,
+      349.9089607357805
+    ],
+    "time": [
+      0.89,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2976403982723832,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      29.50730883388076,
+      1.2662515468729971,
+      18,
+      349.9089607357805
+    ],
+    "time": [
+      0.89,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22979713507003674,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      10.861765972114265,
+      4.6636486150521,
+      21,
+      219.06324619023292
+    ],
+    "time": [
+      0.39,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      10.861765972114265,
+      4.6636486150521,
+      21,
+      219.06324619023292
+    ],
+    "time": [
+      0.39,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22176332678179364,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      10.861765972114265,
+      4.6636486150521,
+      21,
+      219.06324619023292
+    ],
+    "time": [
+      0.39,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3399929305089972,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      10.861765972114265,
+      4.6636486150521,
+      21,
+      219.06324619023292
+    ],
+    "time": [
+      0.8,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      10.861765972114265,
+      4.6636486150521,
+      21,
+      219.06324619023292
+    ],
+    "time": [
+      0.8,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3217869009325439,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      10.861765972114265,
+      4.6636486150521,
+      21,
+      219.06324619023292
+    ],
+    "time": [
+      0.8,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26940409309214053,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      5.320818788321345,
+      51.184036929452574,
+      16,
+      206.87700005886654
+    ],
+    "time": [
+      0.66,
+      0.0
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      5.320818788321345,
+      51.184036929452574,
+      16,
+      206.87700005886654
+    ],
+    "time": [
+      0.66,
+      0.0
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2689263291209411,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      5.320818788321345,
+      51.184036929452574,
+      16,
+      206.87700005886654
+    ],
+    "time": [
+      0.66,
+      0.0
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32768807146426326,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      5.320818788321345,
+      51.184036929452574,
+      16,
+      206.87700005886654
+    ],
+    "time": [
+      0.82,
+      0.86
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      5.320818788321345,
+      51.184036929452574,
+      16,
+      206.87700005886654
+    ],
+    "time": [
+      0.82,
+      0.86
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2050838398575568,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      5.320818788321345,
+      51.184036929452574,
+      16,
+      206.87700005886654
+    ],
+    "time": [
+      0.82,
+      0.86
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34892815334796307,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      35.49430803983945,
+      43.716114373076735,
+      15,
+      156.95367439619673
+    ],
+    "time": [
+      0.37,
+      0.79
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      35.49430803983945,
+      43.716114373076735,
+      15,
+      156.95367439619673
+    ],
+    "time": [
+      0.37,
+      0.79
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3106434888241839,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      35.49430803983945,
+      43.716114373076735,
+      15,
+      156.95367439619673
+    ],
+    "time": [
+      0.37,
+      0.79
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20913483027449173,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      35.49430803983945,
+      43.716114373076735,
+      15,
+      156.95367439619673
+    ],
+    "time": [
+      0.83,
+      0.83
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      35.49430803983945,
+      43.716114373076735,
+      15,
+      156.95367439619673
+    ],
+    "time": [
+      0.83,
+      0.83
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2581527462687595,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      35.49430803983945,
+      43.716114373076735,
+      15,
+      156.95367439619673
+    ],
+    "time": [
+      0.83,
+      0.83
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2988121133658965,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      38.7233970280285,
+      4.167198619621278,
+      22,
+      56.49663559851152
+    ],
+    "time": [
+      0.37,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      38.7233970280285,
+      4.167198619621278,
+      22,
+      56.49663559851152
+    ],
+    "time": [
+      0.37,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31998582577591056,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      38.7233970280285,
+      4.167198619621278,
+      22,
+      56.49663559851152
+    ],
+    "time": [
+      0.37,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3425852023871855,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      38.7233970280285,
+      4.167198619621278,
+      22,
+      56.49663559851152
+    ],
+    "time": [
+      0.9,
+      0.92
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      38.7233970280285,
+      4.167198619621278,
+      22,
+      56.49663559851152
+    ],
+    "time": [
+      0.9,
+      0.92
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2728415901095561,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      18.383056640625,
+      24.842822265625,
+      -1.109375
+    ],
+    "drone_pose": [
+      38.7233970280285,
+      4.167198619621278,
+      22,
+      56.49663559851152
+    ],
+    "time": [
+      0.9,
+      0.92
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2033265929235079,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.090441668949204,
+      44.356781560029525,
+      23,
+      236.76483689254934
+    ],
+    "time": [
+      0.5,
+      0.76
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.090441668949204,
+      44.356781560029525,
+      23,
+      236.76483689254934
+    ],
+    "time": [
+      0.5,
+      0.76
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21755544414218272,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.090441668949204,
+      44.356781560029525,
+      23,
+      236.76483689254934
+    ],
+    "time": [
+      0.5,
+      0.76
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30224023445279363,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.090441668949204,
+      44.356781560029525,
+      23,
+      236.76483689254934
+    ],
+    "time": [
+      0.89,
+      0.21
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.090441668949204,
+      44.356781560029525,
+      23,
+      236.76483689254934
+    ],
+    "time": [
+      0.89,
+      0.21
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25812592567460785,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      20.090441668949204,
+      44.356781560029525,
+      23,
+      236.76483689254934
+    ],
+    "time": [
+      0.89,
+      0.21
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27107791301207795,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.10554621427043,
+      54.427930826144994,
+      22,
+      53.24121476989342
+    ],
+    "time": [
+      0.47,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.10554621427043,
+      54.427930826144994,
+      22,
+      53.24121476989342
+    ],
+    "time": [
+      0.47,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2915479609561473,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.10554621427043,
+      54.427930826144994,
+      22,
+      53.24121476989342
+    ],
+    "time": [
+      0.47,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20454943180996438,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.10554621427043,
+      54.427930826144994,
+      22,
+      53.24121476989342
+    ],
+    "time": [
+      0.8,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.10554621427043,
+      54.427930826144994,
+      22,
+      53.24121476989342
+    ],
+    "time": [
+      0.8,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34542077509469177,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      0.432861328125,
+      66.973095703125,
+      -1.109375
+    ],
+    "drone_pose": [
+      19.10554621427043,
+      54.427930826144994,
+      22,
+      53.24121476989342
+    ],
+    "time": [
+      0.8,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28501635202709064,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      23.869056190171086,
+      0,
+      22,
+      22.078744309666295
+    ],
+    "time": [
+      0.46,
+      0.57
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      23.869056190171086,
+      0,
+      22,
+      22.078744309666295
+    ],
+    "time": [
+      0.46,
+      0.57
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3296587650698807,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      23.869056190171086,
+      0,
+      22,
+      22.078744309666295
+    ],
+    "time": [
+      0.46,
+      0.57
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3145148593106507,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      23.869056190171086,
+      0,
+      22,
+      22.078744309666295
+    ],
+    "time": [
+      0.89,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      23.869056190171086,
+      0,
+      22,
+      22.078744309666295
+    ],
+    "time": [
+      0.89,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23090862382663416,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      23.869056190171086,
+      0,
+      22,
+      22.078744309666295
+    ],
+    "time": [
+      0.89,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25249561849707325,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.11985186948966,
+      44.580119099597816,
+      18,
+      84.10159237588503
+    ],
+    "time": [
+      0.5,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.11985186948966,
+      44.580119099597816,
+      18,
+      84.10159237588503
+    ],
+    "time": [
+      0.5,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27143497071123524,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.11985186948966,
+      44.580119099597816,
+      18,
+      84.10159237588503
+    ],
+    "time": [
+      0.5,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28745247505367194,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.11985186948966,
+      44.580119099597816,
+      18,
+      84.10159237588503
+    ],
+    "time": [
+      0.83,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.11985186948966,
+      44.580119099597816,
+      18,
+      84.10159237588503
+    ],
+    "time": [
+      0.83,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20518414009918554,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.11985186948966,
+      44.580119099597816,
+      18,
+      84.10159237588503
+    ],
+    "time": [
+      0.83,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23112529601157492,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.13392716222218,
+      0.35602059033991296,
+      16,
+      241.60982419209594
+    ],
+    "time": [
+      0.63,
+      0.71
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.13392716222218,
+      0.35602059033991296,
+      16,
+      241.60982419209594
+    ],
+    "time": [
+      0.63,
+      0.71
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22417472518890352,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.13392716222218,
+      0.35602059033991296,
+      16,
+      241.60982419209594
+    ],
+    "time": [
+      0.63,
+      0.71
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26906983136650026,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.13392716222218,
+      0.35602059033991296,
+      16,
+      241.60982419209594
+    ],
+    "time": [
+      0.85,
+      0.61
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.13392716222218,
+      0.35602059033991296,
+      16,
+      241.60982419209594
+    ],
+    "time": [
+      0.85,
+      0.61
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34847750396829635,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      33.13392716222218,
+      0.35602059033991296,
+      16,
+      241.60982419209594
+    ],
+    "time": [
+      0.85,
+      0.61
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30626241567588264,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      5.212056638026006,
+      5.072762841442611,
+      17,
+      187.6357976773967
+    ],
+    "time": [
+      0.48,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      5.212056638026006,
+      5.072762841442611,
+      17,
+      187.6357976773967
+    ],
+    "time": [
+      0.48,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25384814210276296,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      5.212056638026006,
+      5.072762841442611,
+      17,
+      187.6357976773967
+    ],
+    "time": [
+      0.48,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2854535783227812,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      5.212056638026006,
+      5.072762841442611,
+      17,
+      187.6357976773967
+    ],
+    "time": [
+      0.85,
+      0.59
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      5.212056638026006,
+      5.072762841442611,
+      17,
+      187.6357976773967
+    ],
+    "time": [
+      0.85,
+      0.59
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30131499253245453,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      5.212056638026006,
+      5.072762841442611,
+      17,
+      187.6357976773967
+    ],
+    "time": [
+      0.85,
+      0.59
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32114897854335767,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      24.349525434850502,
+      47.70714090804138,
+      22,
+      55.27672083092017
+    ],
+    "time": [
+      0.59,
+      0.33
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      24.349525434850502,
+      47.70714090804138,
+      22,
+      55.27672083092017
+    ],
+    "time": [
+      0.59,
+      0.33
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27261907412098724,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      24.349525434850502,
+      47.70714090804138,
+      22,
+      55.27672083092017
+    ],
+    "time": [
+      0.59,
+      0.33
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31036988532553583,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      24.349525434850502,
+      47.70714090804138,
+      22,
+      55.27672083092017
+    ],
+    "time": [
+      0.88,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      24.349525434850502,
+      47.70714090804138,
+      22,
+      55.27672083092017
+    ],
+    "time": [
+      0.88,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26112902721418385,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  },
+  {
+    "marker_pose": [
+      27.729931640625,
+      22.462353515625,
+      -0.953125
+    ],
+    "drone_pose": [
+      24.349525434850502,
+      47.70714090804138,
+      22,
+      55.27672083092017
+    ],
+    "time": [
+      0.88,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2973425957613285,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_PostSoviet"
+  }
+]

@@ -1,0 +1,3874 @@
+[
+  {
+    "marker_pose": [
+      166.17021484375,
+      234.8482421875,
+      -0.96875
+    ],
+    "drone_pose": [
+      163.55684841590957,
+      206.1761990646474,
+      22,
+      199.0763695893603
+    ],
+    "time": [
+      0.86,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27253000821136886,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      193.26376953125,
+      76.9958984375,
+      -1.03125
+    ],
+    "drone_pose": [
+      198.08265704972519,
+      47.45815364800812,
+      25,
+      223.11184613526868
+    ],
+    "time": [
+      0.88,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      4.97119140625,
+      100.63095703125,
+      -0.96875
+    ],
+    "drone_pose": [
+      22.22410682808796,
+      118.69749632504347,
+      23,
+      239.40966655622725
+    ],
+    "time": [
+      0.35,
+      0.55
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.413671875,
+      149.675390625,
+      -0.96875
+    ],
+    "drone_pose": [
+      136.62850870132522,
+      123.8578379250664,
+      28,
+      335.39328648581073
+    ],
+    "time": [
+      0.5,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20892748794388843,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      181.70361328125,
+      106.2490234375,
+      -1.09375
+    ],
+    "drone_pose": [
+      196.49351601432699,
+      88.54934664274765,
+      17,
+      216.08721084675818
+    ],
+    "time": [
+      0.67,
+      0.39
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      141.43193359375,
+      6.2669921875,
+      -0.96875
+    ],
+    "drone_pose": [
+      113.92420690321089,
+      14.269604742150504,
+      23,
+      120.89314713119582
+    ],
+    "time": [
+      0.42,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25113425780404625,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.770703125,
+      162.533203125,
+      -0.875
+    ],
+    "drone_pose": [
+      61.74990588680883,
+      189.29081645535067,
+      29,
+      50.11570098836413
+    ],
+    "time": [
+      0.62,
+      0.64
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2232749893146942,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      21.1884765625,
+      220.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      0,
+      208.3657973352273,
+      28,
+      165.62305937191633
+    ],
+    "time": [
+      0.83,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.770703125,
+      162.533203125,
+      -0.875
+    ],
+    "drone_pose": [
+      61.74990588680883,
+      189.29081645535067,
+      29,
+      50.11570098836413
+    ],
+    "time": [
+      0.62,
+      0.64
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      152.26767578125,
+      82.33037109375,
+      -1.109375
+    ],
+    "drone_pose": [
+      152.21698378957157,
+      108.57000039198128,
+      17,
+      320.82941624528826
+    ],
+    "time": [
+      0.45,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28690407169635845,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      141.43193359375,
+      6.2669921875,
+      -0.96875
+    ],
+    "drone_pose": [
+      171.05502072464313,
+      6.84280618076686,
+      25,
+      44.577240821695256
+    ],
+    "time": [
+      0.82,
+      0.19
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.24188716006377242,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      13.4921875,
+      173.81416015625,
+      -0.96875
+    ],
+    "drone_pose": [
+      2.678214954551791,
+      147.3032498187108,
+      17,
+      114.43656245187793
+    ],
+    "time": [
+      0.54,
+      0.77
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20417359148810094,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      181.70361328125,
+      106.2490234375,
+      -1.09375
+    ],
+    "drone_pose": [
+      199.21698596524408,
+      94.47478202445018,
+      25,
+      358.523905582941
+    ],
+    "time": [
+      0.51,
+      0.67
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      191.770703125,
+      55.741015625,
+      -0.875
+    ],
+    "drone_pose": [
+      207.43586654840354,
+      63.363443557361016,
+      20,
+      35.5626605640184
+    ],
+    "time": [
+      0.82,
+      0.44
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2108836303367389,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      191.0478515625,
+      12.83349609375,
+      -0.90625
+    ],
+    "drone_pose": [
+      186.82505483927554,
+      36.707853462718205,
+      24,
+      179.33947656670196
+    ],
+    "time": [
+      0.52,
+      0.73
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3198667804841593,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      166.17021484375,
+      223.1623046875,
+      -0.96875
+    ],
+    "drone_pose": [
+      139.65847391761662,
+      216.19083862778774,
+      23,
+      154.6402623889606
+    ],
+    "time": [
+      0.9,
+      0.54
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30027364922344324,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      4.97119140625,
+      100.63095703125,
+      -0.96875
+    ],
+    "drone_pose": [
+      29.64222664909487,
+      111.27070888322937,
+      19,
+      343.849259069458
+    ],
+    "time": [
+      0.81,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      13.4921875,
+      173.81416015625,
+      -0.96875
+    ],
+    "drone_pose": [
+      29.961379239598422,
+      153.39193238809906,
+      16,
+      339.34018610589163
+    ],
+    "time": [
+      0.89,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      4.97119140625,
+      100.63095703125,
+      -0.96875
+    ],
+    "drone_pose": [
+      22.22410682808796,
+      118.69749632504347,
+      23,
+      239.40966655622725
+    ],
+    "time": [
+      0.35,
+      0.55
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21896910550821017,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      66.433984375,
+      81.562890625,
+      -0.875
+    ],
+    "drone_pose": [
+      50.92337807713166,
+      87.36037715589458,
+      28,
+      49.66866389992144
+    ],
+    "time": [
+      0.83,
+      0.13
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      90.201318359375,
+      19.4193359375,
+      -0.984375
+    ],
+    "drone_pose": [
+      109.98391280326575,
+      0,
+      16,
+      181.68008772311637
+    ],
+    "time": [
+      0.33,
+      0.39
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      214.072265625,
+      79.90078125,
+      -1.0625
+    ],
+    "drone_pose": [
+      216,
+      64.0492904004156,
+      15,
+      286.0273228329795
+    ],
+    "time": [
+      0.81,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      164.466015625,
+      172.35341796875,
+      -0.96875
+    ],
+    "drone_pose": [
+      193.71029262451157,
+      167.9633841986841,
+      16,
+      288.49427726550846
+    ],
+    "time": [
+      0.56,
+      0.53
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2846147841156236,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      110.70625,
+      55.98359375,
+      -0.875
+    ],
+    "drone_pose": [
+      95.04134604564553,
+      44.74727380146806,
+      23,
+      32.48382693307139
+    ],
+    "time": [
+      0.87,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      214.072265625,
+      79.90078125,
+      -1.0625
+    ],
+    "drone_pose": [
+      190.84165368365302,
+      98.70303764962901,
+      15,
+      109.62861846909766
+    ],
+    "time": [
+      0.37,
+      0.87
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23497270627720046,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      5.45810546875,
+      207.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      17.725015376398755,
+      221.12581204096364,
+      20,
+      108.82093632216584
+    ],
+    "time": [
+      0.31,
+      0.19
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      31.65712890625,
+      118.96328125,
+      -0.96875
+    ],
+    "drone_pose": [
+      19.203350579768717,
+      122.41688879363416,
+      16,
+      218.27216153404547
+    ],
+    "time": [
+      0.86,
+      0.0
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.770703125,
+      162.533203125,
+      -0.875
+    ],
+    "drone_pose": [
+      87.66712807052743,
+      185.04718835229448,
+      21,
+      105.41127306525193
+    ],
+    "time": [
+      0.89,
+      0.72
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33908753224744476,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      139.427978515625,
+      137.29736328125,
+      5.859375
+    ],
+    "drone_pose": [
+      164.11160074059111,
+      149.8934970669888,
+      17,
+      151.3651517751952
+    ],
+    "time": [
+      0.83,
+      0.84
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3302576907137785,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.413671875,
+      149.675390625,
+      -0.96875
+    ],
+    "drone_pose": [
+      162.78099343377605,
+      122.22957522849211,
+      28,
+      113.09596312596125
+    ],
+    "time": [
+      0.8,
+      0.88
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2408852819955461,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      66.433984375,
+      81.562890625,
+      -0.875
+    ],
+    "drone_pose": [
+      41.87504635722239,
+      91.12296495562961,
+      19,
+      301.98080498220736
+    ],
+    "time": [
+      0.49,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23770263511919507,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      21.1884765625,
+      220.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      15.857419258855218,
+      204.56541762822843,
+      15,
+      127.39628741900646
+    ],
+    "time": [
+      0.44,
+      0.82
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3166018729995172,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      21.1884765625,
+      220.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      0,
+      208.3657973352273,
+      28,
+      165.62305937191633
+    ],
+    "time": [
+      0.83,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.34383606945150424,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      191.0478515625,
+      12.83349609375,
+      -0.90625
+    ],
+    "drone_pose": [
+      175.39527737556995,
+      33.55758982496776,
+      17,
+      37.30125588067673
+    ],
+    "time": [
+      0.64,
+      0.93
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31455244006781724,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      211.63388671875,
+      68.46181640625,
+      -0.90625
+    ],
+    "drone_pose": [
+      196.65638548614263,
+      49.92370696727089,
+      16,
+      204.03852329112055
+    ],
+    "time": [
+      0.58,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27477692420754796,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.57587890625,
+      -2.7102539062499993,
+      -0.90625
+    ],
+    "drone_pose": [
+      130.42534498334044,
+      13.034386026200755,
+      20,
+      31.42362531139209
+    ],
+    "time": [
+      0.59,
+      0.66
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      13.4921875,
+      173.81416015625,
+      -0.96875
+    ],
+    "drone_pose": [
+      3.564750777685436,
+      158.41379453659778,
+      25,
+      142.85395650735586
+    ],
+    "time": [
+      0.46,
+      0.4
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32381822294340085,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.413671875,
+      149.675390625,
+      -0.96875
+    ],
+    "drone_pose": [
+      162.78099343377605,
+      122.22957522849211,
+      28,
+      113.09596312596125
+    ],
+    "time": [
+      0.65,
+      0.01
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      183.755859375,
+      4.079443359375,
+      -0.953125
+    ],
+    "drone_pose": [
+      209.1532816319036,
+      15.12938867934598,
+      15,
+      126.74341211181206
+    ],
+    "time": [
+      0.85,
+      0.68
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21923726697914048,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      181.70361328125,
+      106.2490234375,
+      -1.09375
+    ],
+    "drone_pose": [
+      196.49351601432699,
+      88.54934664274765,
+      17,
+      216.08721084675818
+    ],
+    "time": [
+      0.67,
+      0.39
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31580087329490614,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      119.00849609375,
+      102.87607421875,
+      -1.078125
+    ],
+    "drone_pose": [
+      148.57850731756844,
+      100.49261635713044,
+      28,
+      308.33821553645754
+    ],
+    "time": [
+      0.8,
+      0.88
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2960215633696824,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      16.65712890625,
+      41.8482421875,
+      -0.96875
+    ],
+    "drone_pose": [
+      45.252035639926845,
+      34.1805635961039,
+      15,
+      252.46116152267078
+    ],
+    "time": [
+      0.66,
+      0.31
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2530327134649826,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      139.427978515625,
+      137.29736328125,
+      5.859375
+    ],
+    "drone_pose": [
+      167.824885197514,
+      134.1938979862287,
+      20,
+      120.28721775468786
+    ],
+    "time": [
+      0.55,
+      0.56
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      164.466015625,
+      172.35341796875,
+      -0.96875
+    ],
+    "drone_pose": [
+      187.93169332983814,
+      154.72656724760623,
+      15,
+      197.4744974922136
+    ],
+    "time": [
+      0.89,
+      0.7
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      110.70625,
+      55.98359375,
+      -0.875
+    ],
+    "drone_pose": [
+      95.04134604564553,
+      44.74727380146806,
+      23,
+      32.48382693307139
+    ],
+    "time": [
+      0.87,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2195423729173186,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      85.07265625,
+      82.290625,
+      -0.875
+    ],
+    "drone_pose": [
+      100.14188200344088,
+      72.26351843756733,
+      16,
+      285.6491956336435
+    ],
+    "time": [
+      0.56,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29310869932651523,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      29.261328125,
+      129.18623046875,
+      4.96875
+    ],
+    "drone_pose": [
+      21.409298259438213,
+      116.41090207249465,
+      16,
+      334.89788518506276
+    ],
+    "time": [
+      0.87,
+      0.19
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      141.43193359375,
+      6.2669921875,
+      -0.96875
+    ],
+    "drone_pose": [
+      167.84901348428082,
+      2.7020760778474493,
+      15,
+      122.50633369109708
+    ],
+    "time": [
+      0.37,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3111951868169599,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      141.43193359375,
+      6.2669921875,
+      -0.96875
+    ],
+    "drone_pose": [
+      113.92420690321089,
+      14.269604742150504,
+      23,
+      120.89314713119582
+    ],
+    "time": [
+      0.83,
+      0.47
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      218.9052734375,
+      142.54833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      216,
+      171.70123034383906,
+      26,
+      31.591744078116566
+    ],
+    "time": [
+      0.85,
+      0.9
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3013821536753599,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      4.97119140625,
+      100.63095703125,
+      -0.96875
+    ],
+    "drone_pose": [
+      11.80934615124197,
+      127.69503119843152,
+      30,
+      334.33291303636537
+    ],
+    "time": [
+      0.9,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3051086366213427,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      4.97119140625,
+      100.63095703125,
+      -0.96875
+    ],
+    "drone_pose": [
+      29.64222664909487,
+      111.27070888322937,
+      19,
+      343.849259069458
+    ],
+    "time": [
+      0.43,
+      0.77
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      152.26767578125,
+      82.33037109375,
+      -1.109375
+    ],
+    "drone_pose": [
+      152.21698378957157,
+      108.57000039198128,
+      17,
+      320.82941624528826
+    ],
+    "time": [
+      0.45,
+      0.23
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23169384924980302,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      13.4921875,
+      173.81416015625,
+      -0.96875
+    ],
+    "drone_pose": [
+      29.961379239598422,
+      153.39193238809906,
+      16,
+      339.34018610589163
+    ],
+    "time": [
+      0.49,
+      0.62
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.33560838933554993,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      90.201318359375,
+      19.4193359375,
+      -0.984375
+    ],
+    "drone_pose": [
+      109.98391280326575,
+      0,
+      16,
+      181.68008772311637
+    ],
+    "time": [
+      0.82,
+      0.39
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      166.17021484375,
+      234.8482421875,
+      -0.96875
+    ],
+    "drone_pose": [
+      142.14606587961435,
+      222.8920538171203,
+      21,
+      83.5491859218262
+    ],
+    "time": [
+      0.86,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3284731312395076,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      166.17021484375,
+      223.1623046875,
+      -0.96875
+    ],
+    "drone_pose": [
+      142.13872197998597,
+      208.08500638155667,
+      30,
+      183.9152305553313
+    ],
+    "time": [
+      0.85,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3352862023982997,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.413671875,
+      149.675390625,
+      -0.96875
+    ],
+    "drone_pose": [
+      158.4197722618599,
+      133.90689141584545,
+      15,
+      209.08467618781862
+    ],
+    "time": [
+      0.38,
+      0.59
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20349369494925507,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.57587890625,
+      -2.7102539062499993,
+      -0.90625
+    ],
+    "drone_pose": [
+      134.93407260356858,
+      18.52802388356308,
+      30,
+      62.98959238285108
+    ],
+    "time": [
+      0.81,
+      0.99
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.305413923351292,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      135.43984375,
+      227.54453125,
+      -0.96875
+    ],
+    "drone_pose": [
+      151.44492310591409,
+      223.75840284778985,
+      20,
+      28.008650143452666
+    ],
+    "time": [
+      0.81,
+      0.68
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26578678231671593,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      218.9052734375,
+      142.54833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      216,
+      163.47479269871334,
+      15,
+      340.2928073814109
+    ],
+    "time": [
+      0.87,
+      0.84
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20542847881385962,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.57587890625,
+      -2.7102539062499993,
+      -0.90625
+    ],
+    "drone_pose": [
+      137.157502255883,
+      0,
+      25,
+      230.87554890984154
+    ],
+    "time": [
+      0.88,
+      0.41
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28444249235432373,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      21.1884765625,
+      220.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      17.257095947931578,
+      204.21783092498302,
+      26,
+      53.24066732243266
+    ],
+    "time": [
+      0.46,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.25875009512634456,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      152.26767578125,
+      82.33037109375,
+      -1.109375
+    ],
+    "drone_pose": [
+      135.0794514539204,
+      103.61242336566607,
+      19,
+      230.38265160903313
+    ],
+    "time": [
+      0.33,
+      0.8
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2071542045811746,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      183.755859375,
+      4.079443359375,
+      -0.953125
+    ],
+    "drone_pose": [
+      207.9309192827092,
+      0,
+      15,
+      69.67468035486834
+    ],
+    "time": [
+      0.53,
+      0.78
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      181.70361328125,
+      106.2490234375,
+      -1.09375
+    ],
+    "drone_pose": [
+      208.71240887266336,
+      94.78278677039533,
+      30,
+      105.27022685212653
+    ],
+    "time": [
+      0.87,
+      0.2
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2616069542948482,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      141.43193359375,
+      6.2669921875,
+      -0.96875
+    ],
+    "drone_pose": [
+      123.51587867625149,
+      10.279877449213387,
+      16,
+      247.59606954372785
+    ],
+    "time": [
+      0.8,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2651762844654642,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      90.201318359375,
+      19.4193359375,
+      -0.984375
+    ],
+    "drone_pose": [
+      66.30350176051334,
+      35.45530957157696,
+      16,
+      21.184752307439517
+    ],
+    "time": [
+      0.64,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3112373875495408,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.770703125,
+      162.533203125,
+      -0.875
+    ],
+    "drone_pose": [
+      51.59027518822363,
+      184.06272770213536,
+      20,
+      324.0489317630204
+    ],
+    "time": [
+      0.45,
+      0.22
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      66.433984375,
+      81.562890625,
+      -0.875
+    ],
+    "drone_pose": [
+      41.87504635722239,
+      91.12296495562961,
+      19,
+      301.98080498220736
+    ],
+    "time": [
+      0.49,
+      0.49
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      181.70361328125,
+      106.2490234375,
+      -1.09375
+    ],
+    "drone_pose": [
+      199.1098277342805,
+      99.82075999826507,
+      15,
+      251.00625219275463
+    ],
+    "time": [
+      0.5,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      21.1884765625,
+      220.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      0,
+      208.3657973352273,
+      28,
+      165.62305937191633
+    ],
+    "time": [
+      0.3,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27117201401301677,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      4.97119140625,
+      100.63095703125,
+      -0.96875
+    ],
+    "drone_pose": [
+      2.1589538789671083,
+      119.36165404914297,
+      27,
+      110.29929872364023
+    ],
+    "time": [
+      0.54,
+      0.29
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      1.3193359375,
+      190.1623046875,
+      -0.96875
+    ],
+    "drone_pose": [
+      6.808771321510821,
+      219.33251004052858,
+      15,
+      33.33310954677608
+    ],
+    "time": [
+      0.85,
+      0.1
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2761826309399806,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      90.201318359375,
+      19.4193359375,
+      -0.984375
+    ],
+    "drone_pose": [
+      99.20426380082229,
+      2.4974196905836976,
+      17,
+      225.27848902577503
+    ],
+    "time": [
+      0.85,
+      0.63
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2272402517589876,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      183.755859375,
+      4.079443359375,
+      -0.953125
+    ],
+    "drone_pose": [
+      156.73400053956226,
+      0,
+      17,
+      15.114570295717984
+    ],
+    "time": [
+      0.87,
+      0.54
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3171256204090832,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      13.4921875,
+      173.81416015625,
+      -0.96875
+    ],
+    "drone_pose": [
+      3.564750777685436,
+      158.41379453659778,
+      25,
+      142.85395650735586
+    ],
+    "time": [
+      0.82,
+      0.59
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27402434289176025,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      139.427978515625,
+      137.29736328125,
+      5.859375
+    ],
+    "drone_pose": [
+      167.824885197514,
+      134.1938979862287,
+      20,
+      120.28721775468786
+    ],
+    "time": [
+      0.89,
+      0.19
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2383576058530172,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      193.26376953125,
+      76.9958984375,
+      -1.03125
+    ],
+    "drone_pose": [
+      180.9372571602167,
+      52.561600744710155,
+      16,
+      352.89256541642936
+    ],
+    "time": [
+      0.48,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3344872054926461,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      110.70625,
+      55.98359375,
+      -0.875
+    ],
+    "drone_pose": [
+      99.02747704227232,
+      29.144197622835687,
+      20,
+      176.98296620024067
+    ],
+    "time": [
+      0.33,
+      0.52
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      110.70625,
+      55.98359375,
+      -0.875
+    ],
+    "drone_pose": [
+      95.04134604564553,
+      44.74727380146806,
+      23,
+      32.48382693307139
+    ],
+    "time": [
+      0.63,
+      0.99
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      90.201318359375,
+      19.4193359375,
+      -0.984375
+    ],
+    "drone_pose": [
+      87.29614703253557,
+      0,
+      17,
+      315.3874656196712
+    ],
+    "time": [
+      0.64,
+      0.7
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.770703125,
+      162.533203125,
+      -0.875
+    ],
+    "drone_pose": [
+      51.59027518822363,
+      184.06272770213536,
+      20,
+      324.0489317630204
+    ],
+    "time": [
+      0.45,
+      0.22
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3148301725027687,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.413671875,
+      149.675390625,
+      -0.96875
+    ],
+    "drone_pose": [
+      158.4197722618599,
+      133.90689141584545,
+      15,
+      209.08467618781862
+    ],
+    "time": [
+      0.84,
+      0.4
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.57587890625,
+      -2.7102539062499993,
+      -0.90625
+    ],
+    "drone_pose": [
+      137.157502255883,
+      0,
+      25,
+      230.87554890984154
+    ],
+    "time": [
+      0.88,
+      0.41
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      21.1884765625,
+      220.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      40.945273158178296,
+      204.41689849026372,
+      28,
+      132.11779476972362
+    ],
+    "time": [
+      0.45,
+      0.11
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      31.65712890625,
+      118.96328125,
+      -0.96875
+    ],
+    "drone_pose": [
+      44.45511972699211,
+      144.79337223249206,
+      20,
+      64.69509952851692
+    ],
+    "time": [
+      0.53,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      152.26767578125,
+      82.33037109375,
+      -1.109375
+    ],
+    "drone_pose": [
+      167.5490558722008,
+      62.58035163416007,
+      19,
+      219.17026365016812
+    ],
+    "time": [
+      0.38,
+      0.62
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.27849281140144205,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      191.770703125,
+      55.741015625,
+      -0.875
+    ],
+    "drone_pose": [
+      181.48468637618058,
+      63.55130155530545,
+      22,
+      47.097867089495594
+    ],
+    "time": [
+      0.49,
+      0.95
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      218.9052734375,
+      142.54833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      208.21349019000007,
+      163.00038714038527,
+      30,
+      276.1392232224747
+    ],
+    "time": [
+      0.38,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      152.26767578125,
+      82.33037109375,
+      -1.109375
+    ],
+    "drone_pose": [
+      140.54702047041113,
+      65.48221783193006,
+      18,
+      204.84412485314766
+    ],
+    "time": [
+      0.86,
+      0.48
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32847526304163244,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      57.27490234375,
+      196.9791015625,
+      -0.96875
+    ],
+    "drone_pose": [
+      76.16023226214622,
+      187.19364877924414,
+      26,
+      134.58647727651385
+    ],
+    "time": [
+      0.85,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.20122212564963163,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      13.4921875,
+      173.81416015625,
+      -0.96875
+    ],
+    "drone_pose": [
+      24.783152281519023,
+      149.15716053044386,
+      29,
+      107.54402844819003
+    ],
+    "time": [
+      0.68,
+      0.08
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3458407813147737,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      21.1884765625,
+      220.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      15.857419258855218,
+      204.56541762822843,
+      15,
+      127.39628741900646
+    ],
+    "time": [
+      0.82,
+      0.28
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.32140321900689406,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      29.261328125,
+      129.18623046875,
+      4.96875
+    ],
+    "drone_pose": [
+      6.795550311808974,
+      125.4724539622549,
+      23,
+      248.39827064250034
+    ],
+    "time": [
+      0.81,
+      0.86
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      183.755859375,
+      4.079443359375,
+      -0.953125
+    ],
+    "drone_pose": [
+      207.9309192827092,
+      0,
+      15,
+      69.67468035486834
+    ],
+    "time": [
+      0.53,
+      0.78
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.21603676682270617,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      151.57587890625,
+      -2.7102539062499993,
+      -0.90625
+    ],
+    "drone_pose": [
+      130.42534498334044,
+      13.034386026200755,
+      20,
+      31.42362531139209
+    ],
+    "time": [
+      0.59,
+      0.66
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3308134766507437,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      90.201318359375,
+      19.4193359375,
+      -0.984375
+    ],
+    "drone_pose": [
+      99.20426380082229,
+      2.4974196905836976,
+      17,
+      225.27848902577503
+    ],
+    "time": [
+      0.64,
+      0.16
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30345950836892244,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      29.261328125,
+      129.18623046875,
+      4.96875
+    ],
+    "drone_pose": [
+      15.705338198078843,
+      105.52463471099396,
+      26,
+      262.2581043483405
+    ],
+    "time": [
+      0.35,
+      0.61
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      218.9052734375,
+      142.54833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      208.21349019000007,
+      163.00038714038527,
+      30,
+      276.1392232224747
+    ],
+    "time": [
+      0.38,
+      0.05
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2778936082433202,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.04296875,
+      3.3695312499999996,
+      -0.875
+    ],
+    "drone_pose": [
+      42.67522344375739,
+      11.776353634005316,
+      15,
+      116.04030637652428
+    ],
+    "time": [
+      0.47,
+      0.16
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3214709416504211,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      1.3193359375,
+      190.1623046875,
+      -0.96875
+    ],
+    "drone_pose": [
+      0,
+      200.34807741971846,
+      25,
+      181.7426102383602
+    ],
+    "time": [
+      0.82,
+      0.21
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29341404847263824,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      91.709423828125,
+      140.37216796875,
+      -1.109375
+    ],
+    "drone_pose": [
+      62.45000707275412,
+      142.0444490719799,
+      15,
+      117.89319025206234
+    ],
+    "time": [
+      0.8,
+      0.22
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      85.07265625,
+      82.290625,
+      -0.875
+    ],
+    "drone_pose": [
+      114.54735722643005,
+      79.87125816981579,
+      28,
+      84.97088268155039
+    ],
+    "time": [
+      0.4,
+      0.09
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      29.261328125,
+      129.18623046875,
+      4.96875
+    ],
+    "drone_pose": [
+      10.026040448938478,
+      112.03363034014234,
+      16,
+      139.98388616165968
+    ],
+    "time": [
+      0.54,
+      0.78
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23706921549064516,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      110.70625,
+      55.98359375,
+      -0.875
+    ],
+    "drone_pose": [
+      88.94707756703363,
+      72.94851034209344,
+      15,
+      95.96042333709097
+    ],
+    "time": [
+      0.69,
+      0.91
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      31.65712890625,
+      118.96328125,
+      -0.96875
+    ],
+    "drone_pose": [
+      44.45511972699211,
+      144.79337223249206,
+      20,
+      64.69509952851692
+    ],
+    "time": [
+      0.53,
+      0.07
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2176507048556413,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      8.06416015625,
+      69.749609375,
+      4.96875
+    ],
+    "drone_pose": [
+      0,
+      46.81667524881345,
+      24,
+      185.92258356531573
+    ],
+    "time": [
+      0.82,
+      0.85
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.22508819523225398,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      110.70625,
+      55.98359375,
+      -0.875
+    ],
+    "drone_pose": [
+      99.31669889851288,
+      73.2947157831455,
+      15,
+      93.24484634105075
+    ],
+    "time": [
+      0.63,
+      0.81
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      218.9052734375,
+      142.54833984375,
+      -0.90625
+    ],
+    "drone_pose": [
+      216,
+      171.70123034383906,
+      26,
+      31.591744078116566
+    ],
+    "time": [
+      0.7,
+      0.09
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30902205945436045,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      8.06416015625,
+      69.749609375,
+      4.96875
+    ],
+    "drone_pose": [
+      18.376832744447295,
+      50.612427681720064,
+      17,
+      13.105968747983514
+    ],
+    "time": [
+      0.8,
+      0.29
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.30876641609881184,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      135.43984375,
+      227.54453125,
+      -0.96875
+    ],
+    "drone_pose": [
+      155.70970393199326,
+      220.88874499822845,
+      30,
+      235.81029317752007
+    ],
+    "time": [
+      0.64,
+      0.14
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      141.43193359375,
+      6.2669921875,
+      -0.96875
+    ],
+    "drone_pose": [
+      123.51587867625149,
+      10.279877449213387,
+      16,
+      247.59606954372785
+    ],
+    "time": [
+      0.39,
+      0.17
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28557925147077995,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      31.65712890625,
+      118.96328125,
+      -0.96875
+    ],
+    "drone_pose": [
+      9.764247677786475,
+      131.01779122863522,
+      20,
+      267.1018377387981
+    ],
+    "time": [
+      0.62,
+      0.35
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2795869500420566,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.04296875,
+      3.3695312499999996,
+      -0.875
+    ],
+    "drone_pose": [
+      42.563895672380994,
+      0,
+      20,
+      345.4679372969646
+    ],
+    "time": [
+      0.6,
+      0.02
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29674652197101303,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.770703125,
+      162.533203125,
+      -0.875
+    ],
+    "drone_pose": [
+      72.45302486376765,
+      191.33292170573262,
+      23,
+      232.53645039477297
+    ],
+    "time": [
+      0.3,
+      0.04
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2543999901677355,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      191.770703125,
+      55.741015625,
+      -0.875
+    ],
+    "drone_pose": [
+      214.92755753010235,
+      41.87363604015104,
+      23,
+      168.09141668269902
+    ],
+    "time": [
+      0.69,
+      0.15
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      71.770703125,
+      162.533203125,
+      -0.875
+    ],
+    "drone_pose": [
+      61.74990588680883,
+      189.29081645535067,
+      29,
+      50.11570098836413
+    ],
+    "time": [
+      0.87,
+      0.55
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2161612820073673,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      214.072265625,
+      79.90078125,
+      -1.0625
+    ],
+    "drone_pose": [
+      216,
+      54.67216507094668,
+      21,
+      229.84930271232733
+    ],
+    "time": [
+      0.86,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2731345799604205,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      57.27490234375,
+      196.9791015625,
+      -0.96875
+    ],
+    "drone_pose": [
+      66.64119858455616,
+      191.9226529927107,
+      29,
+      265.17700745706173
+    ],
+    "time": [
+      0.85,
+      0.88
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.31450597373225353,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  },
+  {
+    "marker_pose": [
+      5.45810546875,
+      207.48427734375,
+      -0.96875
+    ],
+    "drone_pose": [
+      17.725015376398755,
+      221.12581204096364,
+      20,
+      108.82093632216584
+    ],
+    "time": [
+      0.83,
+      0.52
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2907032207664225,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "TankCleaningCenter"
+  }
+]

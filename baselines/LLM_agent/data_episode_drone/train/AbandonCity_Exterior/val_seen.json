@@ -1,0 +1,642 @@
+[
+  {
+    "marker_pose": [
+      59.26025390625,
+      39.91845703125,
+      -1.015625
+    ],
+    "drone_pose": [
+      64.93374111112655,
+      68.31584675639014,
+      18,
+      350.1092332135541
+    ],
+    "time": [
+      0.45,
+      0.5
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3398538887212924,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      62.43056640625,
+      51.6966796875,
+      21.28125
+    ],
+    "drone_pose": [
+      62.86307020325651,
+      80.61118087200256,
+      19,
+      338.75255119160255
+    ],
+    "time": [
+      0.37,
+      0.36
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2928946464200308,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      62.43056640625,
+      51.6966796875,
+      21.28125
+    ],
+    "drone_pose": [
+      62.65960936379769,
+      66.28299359995665,
+      15,
+      97.55640276352399
+    ],
+    "time": [
+      0.47,
+      0.98
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      22.16259765625,
+      111.869873046875,
+      -1.015625
+    ],
+    "drone_pose": [
+      22.004971905420508,
+      86.1566249001083,
+      16,
+      154.1440960633198
+    ],
+    "time": [
+      0.63,
+      0.98
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.28957229811471485,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      9.343505859375,
+      40.82861328125,
+      -0.859375
+    ],
+    "drone_pose": [
+      34.10298715166964,
+      23.95610856700391,
+      29,
+      354.85703981747434
+    ],
+    "time": [
+      0.68,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2549287215735122,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      25.798095703125,
+      55.4951171875,
+      -0.859375
+    ],
+    "drone_pose": [
+      40.40511133458876,
+      35.134786068774986,
+      18,
+      40.16632614224212
+    ],
+    "time": [
+      0.38,
+      0.46
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      45.089599609375,
+      37.96728515625,
+      -1.015625
+    ],
+    "drone_pose": [
+      22.886171801776385,
+      24.271431590424378,
+      26,
+      174.2097719677759
+    ],
+    "time": [
+      0.67,
+      0.76
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3232375023416897,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      72.616455078125,
+      40.82861328125,
+      -0.859375
+    ],
+    "drone_pose": [
+      53.45387192868203,
+      56.6634506105653,
+      22,
+      197.91342201957258
+    ],
+    "time": [
+      0.63,
+      0.41
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.3034060430228304,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      58.2021484375,
+      90.427734375,
+      7.890625
+    ],
+    "drone_pose": [
+      43.017546028633994,
+      70.92414112081174,
+      30,
+      0.6972482804305447
+    ],
+    "time": [
+      0.69,
+      0.06
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2807763693530918,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      9.343505859375,
+      40.82861328125,
+      -0.859375
+    ],
+    "drone_pose": [
+      34.50060837488327,
+      54.63304281383127,
+      28,
+      215.39088390640555
+    ],
+    "time": [
+      0.65,
+      0.99
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      15.646728515625,
+      35.97998046875,
+      -0.859375
+    ],
+    "drone_pose": [
+      0,
+      29.494890566862413,
+      15,
+      176.9468080066357
+    ],
+    "time": [
+      0.69,
+      0.62
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.26603510914641837,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      45.089599609375,
+      37.96728515625,
+      -1.015625
+    ],
+    "drone_pose": [
+      48.09168587997512,
+      62.409919053899245,
+      22,
+      141.7694955519589
+    ],
+    "time": [
+      0.67,
+      0.96
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      22.16259765625,
+      111.869873046875,
+      -1.015625
+    ],
+    "drone_pose": [
+      22.004971905420508,
+      86.1566249001083,
+      16,
+      154.1440960633198
+    ],
+    "time": [
+      0.63,
+      0.98
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29591790919932326,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      58.2021484375,
+      90.427734375,
+      7.890625
+    ],
+    "drone_pose": [
+      67.18611862452863,
+      62.37222682330333,
+      21,
+      6.710902078340619
+    ],
+    "time": [
+      0.35,
+      0.04
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.23148313569952642,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      31.616455078125,
+      121.555908203125,
+      -0.859375
+    ],
+    "drone_pose": [
+      56.92835044347902,
+      113.88911498810064,
+      17,
+      131.72594222786554
+    ],
+    "time": [
+      0.52,
+      0.45
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.29933932382297573,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      45.089599609375,
+      37.96728515625,
+      -1.015625
+    ],
+    "drone_pose": [
+      48.09168587997512,
+      62.409919053899245,
+      22,
+      141.7694955519589
+    ],
+    "time": [
+      0.67,
+      0.96
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2725115892120965,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      72.616455078125,
+      40.82861328125,
+      -0.859375
+    ],
+    "drone_pose": [
+      43.97179946216848,
+      34.57150034309787,
+      28,
+      35.3846702464389
+    ],
+    "time": [
+      0.67,
+      0.74
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      59.26025390625,
+      39.91845703125,
+      -1.015625
+    ],
+    "drone_pose": [
+      71,
+      60.477018648986714,
+      26,
+      216.05620264339055
+    ],
+    "time": [
+      0.34,
+      0.34
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      22.16259765625,
+      111.869873046875,
+      -1.015625
+    ],
+    "drone_pose": [
+      38.12665389346562,
+      97.12369520275328,
+      26,
+      305.68637232621825
+    ],
+    "time": [
+      0.66,
+      0.75
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  },
+  {
+    "marker_pose": [
+      9.343505859375,
+      40.82861328125,
+      -0.859375
+    ],
+    "drone_pose": [
+      34.10298715166964,
+      23.95610856700391,
+      29,
+      354.85703981747434
+    ],
+    "time": [
+      0.68,
+      0.65
+    ],
+    "weather": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.2665983988226971,
+      0
+    ],
+    "seen_flag": false,
+    "hard_level": "easy",
+    "occupy": false,
+    "map_name": "AbandonCity_Exterior"
+  }
+]

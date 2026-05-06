@@ -1,0 +1,60 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "ComputerVision",
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 640,
+        "Height": 480,
+        "FOV_Degrees": 90
+      },
+      {
+        "ImageType": 5,
+        "Width": 640,
+        "Height": 480,
+        "FOV_Degrees": 90
+      },
+      {
+        "ImageType": 1,
+        "Width": 640,
+        "Height": 480,
+        "FOV_Degrees": 90
+      },
+      {
+        "ImageType": 2,
+        "Width": 640,
+        "Height": 480,
+        "FOV_Degrees": 90
+      }
+    ]
+  },
+  "ExternalCameras": {
+    "ext_cam": {
+      "X": 0, "Y": 0, "Z": -10,
+      "Pitch": -90, "Roll": 0, "Yaw": 0,
+      "CaptureSettings": [
+        {
+          "ImageType": 0,
+          "Width": 640,
+          "Height": 480,
+          "FOV_Degrees": 90
+        }
+      ]
+    }
+  },
+  "SubWindows": [
+    {
+      "WindowID": 0,
+      "ImageType": 0,
+      "CameraName": "bottom_center",
+      "Visible": true
+    },
+    {
+      "WindowID": 1,
+      "ImageType": 0,
+      "CameraName": "front_center",
+      "Visible": true
+    }
+  ]
+}

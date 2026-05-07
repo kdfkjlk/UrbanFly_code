@@ -21,6 +21,7 @@ Expected structure:
 UrbanFly/
 ├── DATA/
 │   ├── train/
+|   |—— val_seen/
 │   ├── val_unseen/
 │   └── test/
 │       └── MAP_NAME/

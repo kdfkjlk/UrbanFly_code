@@ -46,7 +46,7 @@ UrbanFly/
 
 `baselines/` contains baseline evaluation code, including heuristic, end-to-end, and LLM-agent baselines.
 
-`tool/human_eval/` contains utilities for human evaluation.
+`tool/human_eval/` contains the tool for human trajectory collection.
 
 ## Installation
 

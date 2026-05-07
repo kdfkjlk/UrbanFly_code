@@ -136,4 +136,4 @@ config.local.json
 *.7z
 
 # OS files
-Thumbs.db
+Thumbs.dbbaselines/Heuristic/logs/

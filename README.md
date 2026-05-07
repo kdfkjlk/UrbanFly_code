@@ -15,7 +15,7 @@ This repository provides the evaluation code and baseline implementations for Ur
 - Acknowledgment
 
 ## Introduction
-![Overview](docs/overview.png)
+![Overview](docs/urbanfly_overview.png)
 Unmanned aerial vehicle (UAV) delivery has gained increasing attention for fast and flexible service in dense urban environments, yet current systems remain constrained by fragile positioning assumptions and predefined landing infrastructure, limiting deployment to arbitrary urban destinations. We present UrbanFly, a large-scale benchmark for pre-landing target acquisition in autonomous UAV delivery under coupled perception, geometry, and environmental challenges. UrbanFly contains 10,201 episodes across 17 near-photorealistic urban maps, generated through a systematic construction pipeline covering diverse spatial configurations, operating conditions, and environmental variations. Evaluations with representative autonomous agents and human operation reveal the difficulty of coordinating aerial navigation, local exploration, and endpoint acquisition in complex scenarios， highlighting pre-landing stage as a critical bottleneck for scalable UAV delivery. 
   UrbanFly aims to advance research on robust pre-landing aerial autonomy in complex real-world environments.
 

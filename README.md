@@ -12,7 +12,6 @@ This repository provides the evaluation code and baseline implementations for Ur
 - Getting Started
 - Usage
 - Baselines
-- TODO
 - Acknowledgment
 
 ## Introduction

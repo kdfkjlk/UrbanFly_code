@@ -24,21 +24,7 @@ Unmanned aerial vehicle (UAV) delivery has gained increasing attention for fast 
 
 ### Step1: Install dependencies
 
-Each baseline has its own dependencies. Please enter the corresponding baseline folder and install its requirements.
-
-For example, to use the heuristic baseline:
-
-```bash
-cd baselines/Heuristic
-pip install -r requirements.txt
-```
-
-To use the E2E baseline:
-
-```bash
-cd baselines/E2E
-pip install -r requirements.txt
-```
+Each baseline has its own dependencies. Please enter the corresponding baseline folder for detailed README and installation requirements.
 
 AirSim should also be installed following its official instructions.
 
@@ -75,24 +61,11 @@ The dataset directory should be structured as follows:
 ```text
 DATA/
 ├── train/
+|—— val_seen/
 ├── val_unseen/
 └── test/
     └── MAP_NAME/
         └── test.json
-```
-
-### Step4: Prepare model weights
-
-Baseline model weights should be placed under the corresponding baseline folder. For example:
-
-```text
-baselines/
-├── E2E/
-│   └── src/
-│       └── weights/
-└── Heuristic/
-    └── Obj_Detect/
-        └── weights/
 ```
 
 ## Project Directory Structure

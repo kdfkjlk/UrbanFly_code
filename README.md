@@ -4,7 +4,7 @@
 
 ## Notes
 
-This repository provides the evaluation code and baseline implementations for UrbanFly. The dataset files, simulation environments, and large model weights are hosted separately and should be downloaded before running the benchmark.
+This repository provides the evaluation code and baseline implementations for UrbanFly. The dataset files, simulation environments, and large model weights are hosted separately and can be downloaded for running the benchmark.
 
 ## Content
 

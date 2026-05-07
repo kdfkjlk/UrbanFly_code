@@ -134,9 +134,9 @@ configs/settings_nav.json    # for LLM navigation
 configs/settings_eval.json   # for evaluation
 ```
 
-Before running the three stages (LLM navigation, LLM marker localization, Evaluation),
-open a terminal in the map environment map
-run the command: sh AirSimEnv.sh --settings = path of the settings json file (depends on the task)
+Before running the three stages (LLM navigation, LLM marker localization, and evaluation),
+Open a terminal in the map environment map
+Run the command: sh AirSimEnv.sh --settings = path of the settings JSON file (depends on the task)
 
 
 
@@ -159,7 +159,7 @@ data_episode_drone/test/<MapName>/test.json
 
 
 ## Yolo11 Detector:
-The weights are provided in Obj_detect/weights/best.pt
+The weights can be downloaded from [UrbanFly_weights](https://huggingface.co/datasets/dfjkalfj/Urbanly_weights).
 
 
 ## Notes

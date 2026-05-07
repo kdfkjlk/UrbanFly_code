@@ -1,35 +1,109 @@
-# UrbanFly Benchmark Code
+# UrbanFly: A Benchmark for UAV Pre-landing Target Acquisition in Urban Environments
 
-This repository provides baseline implementations and utility scripts for **UrbanFly**, a simulation-based benchmark for UAV target acquisition in urban pre-landing scenarios.
+---
 
-UrbanFly evaluates whether an autonomous UAV can search a local urban area and acquire a designated landing target before the final precision-landing stage. The benchmark is built on AirSim and Unreal Engine environments and provides episode metadata, packaged maps, baseline agents, and evaluation scripts.
+## Notes
 
-## Dataset and Environments
+This repository provides the evaluation code and baseline implementations for UrbanFly. The dataset files, simulation environments, and large model weights are hosted separately and should be downloaded before running the benchmark.
 
-UrbanFly consists of two Hugging Face repositories:
+## Content
 
-- Dataset metadata and episode files: [UrbanFly_dataset](https://huggingface.co/datasets/dfjkalfj/UrbanFly_dataset)
-- AirSim/Unreal Engine environment archives: [UrbanFly_envs](https://huggingface.co/datasets/dfjkalfj/UrbanFly_envs)
+- Introduction
+- Getting Started
+- Usage
+- Baselines
+- TODO
+- Acknowledgment
 
-The dataset repository contains the episode metadata used to define UAV target-acquisition tasks. The environment repository contains the packaged AirSim/Unreal Engine maps required to run the benchmark.
+## Introduction
 
-## Repository Structure
+UrbanFly is a benchmark for evaluating autonomous UAV pre-landing target acquisition in urban environments. The task requires an aerial agent to search a local area and acquire a designated landing target before the final precision-landing stage.
 
-Expected structure:
+UrbanFly focuses on practical challenges in UAV delivery scenarios, including local exploration, altitude-aware perception, target visibility, obstacle avoidance, and robustness under different scene, weather, and illumination conditions. The benchmark is built on AirSim and Unreal Engine environments and provides episode metadata, packaged simulation maps, and baseline evaluation code.
+
+## Getting Started
+
+### Step1: Install dependencies
+
+Each baseline has its own dependencies. Please enter the corresponding baseline folder and install its requirements.
+
+For example, to use the heuristic baseline:
+
+```bash
+cd baselines/Heuristic
+pip install -r requirements.txt
+```
+
+To use the E2E baseline:
+
+```bash
+cd baselines/E2E
+pip install -r requirements.txt
+```
+
+AirSim should also be installed following its official instructions.
+
+### Step2: Prepare the simulation environments
+
+The AirSim/Unreal Engine environments can be downloaded from:
+
+[UrbanFly_envs](https://huggingface.co/datasets/dfjkalfj/UrbanFly_envs)
+
+After downloading, place the environments under:
+
+```text
+Envs/
+├── ModernCityEnvironment/
+├── UrbanDistrict/
+├── AbandonCity_PostSoviet/
+└── ...
+```
+
+Each map folder should contain an executable script such as:
+
+```text
+AirSimEnv.sh
+```
+
+### Step3: Prepare the dataset files
+
+The UrbanFly episode metadata can be downloaded from:
+
+[UrbanFly_dataset](https://huggingface.co/datasets/dfjkalfj/UrbanFly_dataset)
+
+The dataset directory should be structured as follows:
+
+```text
+DATA/
+├── train/
+├── val_unseen/
+└── test/
+    └── MAP_NAME/
+        └── test.json
+```
+
+### Step4: Prepare model weights
+
+Baseline model weights should be placed under the corresponding baseline folder. For example:
+
+```text
+baselines/
+├── E2E/
+│   └── src/
+│       └── weights/
+└── Heuristic/
+    └── Obj_Detect/
+        └── weights/
+```
+
+## Project Directory Structure
+
+Your workspace directory should be structured as follows:
 
 ```text
 UrbanFly/
 ├── DATA/
-│   ├── train/
-|   |—— val_seen/
-│   ├── val_unseen/
-│   └── test/
-│       └── MAP_NAME/
-│           └── test.json
 ├── Envs/
-│   └── MAP_NAME/
-│       ├── AirSimEnv.sh
-│       └── ...
 ├── baselines/
 │   ├── E2E/
 │   ├── Heuristic/
@@ -40,35 +114,20 @@ UrbanFly/
 └── .gitignore
 ```
 
-`DATA/` contains the UrbanFly episode metadata.
+## Usage
 
-`Envs/` contains the packaged AirSim/Unreal Engine maps.
+### 1. Launch the AirSim environment
 
-`baselines/` contains baseline evaluation code, including heuristic, end-to-end, and LLM-agent baselines.
-
-`tool/human_eval/` contains the tool for human trajectory collection.
-
-## Installation
-
-Each baseline folder provides its own `README.md` and `requirements.txt`. Please install the dependencies required by the baseline you want to run.
-
-For example:
+Before running any baseline, first open one packaged AirSim map. For example:
 
 ```bash
-cd baselines/Heuristic
-pip install -r requirements.txt
+cd Envs/ModernCityEnvironment
+sh AirSimEnv.sh --settings=/path/to/UrbanFly/baselines/Heuristic/src/settings.json
 ```
 
-## Running Baselines
+The settings file should correspond to the baseline being evaluated.
 
-Before running AirSim-based evaluation, manually launch the corresponding packaged environment:
-
-```bash
-cd Envs/MAP_NAME
-sh AirSimEnv.sh --settings=/path/to/baselines/BASELINE_NAME/src/settings.json
-```
-
-Then enter the corresponding baseline folder and run its scripts. For example:
+### 2. Run the heuristic baseline
 
 ```bash
 cd baselines/Heuristic
@@ -77,26 +136,43 @@ bash scripts/eval_heuristic_3D.sh
 bash scripts/calculate_metrics.sh
 ```
 
-Please refer to each baseline folder for detailed configuration, dependencies, and evaluation commands.
+Before running, edit the map name and search type inside the corresponding script. The search type can be `spiral` or `zigzag`.
 
-## Expected Dataset Structure
+### 3. Run the E2E baseline
 
-```text
-UrbanFly_dataset/
-└── DATA/
-    ├── train/
-    ├── val_unseen/
-    └── test/
-        └── MAP_NAME/
-            └── test.json
+```bash
+cd baselines/E2E
+bash scripts/eval_E2E_2D.sh
+bash scripts/eval_E2E_3D.sh
+bash scripts/calculate_metrics.sh
 ```
 
-Each episode file contains scenario metadata such as UAV initial pose, marker/target pose, map name, time-of-day condition, weather condition, and other task attributes.
+Before running, edit the map name and evaluation setting inside the corresponding script.
 
-## License
+### 4. Run the LLM-agent baseline
 
-The dataset is released under CC BY-NC 4.0.
+```bash
+cd baselines/LLM_agent
+```
 
-## Notes
+Please refer to the README inside `baselines/LLM_agent/` for detailed instructions.
 
-This repository provides code and lightweight utilities. Large assets, including full dataset files, packaged simulation environments, and model weights, should be downloaded separately from the corresponding Hugging Face repositories.
+## Baselines
+
+UrbanFly currently provides the following baselines:
+
+- **Heuristic baseline**: predefined spiral and zigzag search trajectories.
+- **E2E baseline**: trained end-to-end policies for 2D and 3D navigation.
+- **LLM-agent baseline**: language-model-based high-level decision-making agent.
+
+Each baseline folder contains its own scripts, requirements, logs, and README.
+
+## TODO
+
+- Add more detailed documentation for the LLM-agent baseline.
+- Add more example evaluation scripts.
+- Add visualization tools for trajectories and target acquisition behavior.
+
+## Acknowledgment
+
+This project is built upon AirSim and Unreal Engine simulation environments. We thank the open-source UAV navigation and embodied AI communities for their contributions.

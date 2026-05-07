@@ -94,12 +94,12 @@ Before running any baseline, first open one packaged AirSim map. For example:
 
 ```bash
 cd Envs/ModernCityEnvironment
-sh AirSimEnv.sh --settings=/path/to/UrbanFly/baselines/Heuristic/src/settings.json
+sh AirSimEnv.sh --settings=/path/to/settings.json
 ```
 
 The settings file should correspond to the baseline being evaluated.
 
-### 2. Run the heuristic baseline
+### 2. Run the baseline
 
 ```bash
 cd baselines/Heuristic
@@ -139,12 +139,7 @@ UrbanFly currently provides the following baselines:
 
 Each baseline folder contains its own scripts, requirements, logs, and README.
 
-## TODO
-
-- Add more detailed documentation for the LLM-agent baseline.
-- Add more example evaluation scripts.
-- Add visualization tools for trajectories and target acquisition behavior.
 
 ## Acknowledgment
 
-This project is built upon AirSim and Unreal Engine simulation environments. We thank the open-source UAV navigation and embodied AI communities for their contributions.
+This project is built upon AirSim and Unreal Engine simulation environments, and AerialVLN. We thank the open-source UAV navigation and embodied AI communities for their contributions.

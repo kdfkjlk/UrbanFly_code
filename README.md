@@ -17,9 +17,8 @@ This repository provides the evaluation code and baseline implementations for Ur
 
 ## Introduction
 
-UrbanFly is a benchmark for evaluating autonomous UAV pre-landing target acquisition in urban environments. The task requires an aerial agent to search a local area and acquire a designated landing target before the final precision-landing stage.
-
-UrbanFly focuses on practical challenges in UAV delivery scenarios, including local exploration, altitude-aware perception, target visibility, obstacle avoidance, and robustness under different scene, weather, and illumination conditions. The benchmark is built on AirSim and Unreal Engine environments and provides episode metadata, packaged simulation maps, and baseline evaluation code.
+Unmanned aerial vehicle (UAV) delivery has gained increasing attention for fast and flexible service in dense urban environments, yet current systems remain constrained by fragile positioning assumptions and predefined landing infrastructure, limiting deployment to arbitrary urban destinations. We present UrbanFly, a large-scale benchmark for pre-landing target acquisition in autonomous UAV delivery under coupled perception, geometry, and environmental challenges. UrbanFly contains 10,201 episodes across 17 near-photorealistic urban maps, generated through a systematic construction pipeline covering diverse spatial configurations, operating conditions, and environmental variations. Evaluations with representative autonomous agents and human operation reveal the difficulty of coordinating aerial navigation, local exploration, and endpoint acquisition in complex scenarios， highlighting pre-landing stage as a critical bottleneck for scalable UAV delivery. 
+  UrbanFly aims to advance research on robust pre-landing aerial autonomy in complex real-world environments.
 
 ## Getting Started
 

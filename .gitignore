@@ -51,3 +51,89 @@ evaluation_result/
 *.log
 *.tmp
 temp_marker.png
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+
+# Conda
+.conda/
+conda-meta/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and runtime outputs
+logs/
+runs/
+outputs/
+results/
+saved_results/
+evaluation_airsim/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Large datasets and environments
+DATA/
+Envs/
+weights/
+
+# Model weights/checkpoints
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.engine
+
+# AirSim / Unreal generated files
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+
+# Local configuration
+.env
+.env.*
+settings.json
+local_settings.json
+config.local.json
+
+# Secrets / tokens
+*token*
+*secret*
+*password*
+*.pem
+*.key
+
+# Packaging
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# OS files
+Thumbs.db

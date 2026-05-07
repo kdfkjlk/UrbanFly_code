@@ -1,0 +1,16 @@
+# Python version used for testing: 3.8.19
+
+numpy==1.24.4
+opencv-python==4.11.0.86
+natsort==8.4.0
+
+torch==2.4.1
+torchvision==0.19.1
+
+ultralytics==8.3.13
+ultralytics-thop==2.0.9
+
+msgpack==1.0.4
+msgpack-python==0.5.6
+msgpack-rpc-python==0.4.1
+

@@ -159,7 +159,7 @@ data_episode_drone/test/<MapName>/test.json
 
 
 ## Yolo11 Detector:
-The weights can be downloaded from [UrbanFly_weights](https://huggingface.co/datasets/dfjkalfj/Urbanly_weights).
+The weights can be downloaded from [UrbanFly_weights](https://huggingface.co/datasets/dfjkalfj/Urbanly_weights), and then put at LLM_agent/Obj_detect/Weights/best.pt.
 
 
 ## Notes
